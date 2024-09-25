@@ -1,0 +1,110 @@
+---
+title: Phytophthora Detections Globally 
+author: "kkk"
+date: ""
+output: html_document
+# css: styles.css
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+set.seed(1234)
+library(knitr)
+library(kableExtra)
+library(purrr)
+library(sf)
+library(ggplot2)
+library(leaflet)
+```
+
+```{r data, include=FALSE}
+
+filepaths <- c("C:/Users/Kattur/OneDrive - UKCEH/github_projects/PH_project_test_new/data/any_phyto_any_host_any_loc_level4.shp",
+               "C:/Users/Kattur/OneDrive - UKCEH/github_projects/PH_project_test_new/data/any_phyto_any_host_any_loc_level3.shp",
+               "C:/Users/Kattur/OneDrive - UKCEH/github_projects/PH_project_test_new/data/any_phyto_any_host_any_loc_level2.shp",
+               "C:/Users/Kattur/OneDrive - UKCEH/github_projects/PH_project_test_new/data/any_phyto_any_host_any_loc_level1.shp")
+
+world_list <- lapply(filepaths, st_read)
+
+
+```
+## My header {.tabset .tabset-dropdown}
+
+
+```{r leaflet, echo = FALSE, warning=FALSE}
+  plot_list <-list()    
+
+  plot_list[[1]] <-    leaflet(data = world_list[[1]], width = "75%") %>% addTiles(options = providerTileOptions(minZoom=1, maxZoom=10)) %>% 
+  #addLegend(#pal = pal_pest_richness, 
+            #values = ~log(richness),
+            #labFormat = labelFormat(transform = function(x) exp(x), digits = 0),
+            #position = "topright",
+           # title = "No. of non-native pests") %>%
+  addPolygons(
+    fillColor = world_list[[1]]$key_phyt,
+    weight = 0.5,
+    opacity = 1,
+    color = "lightgrey",
+   # dashArray = "3",
+    fillOpacity = 0.6)
+
+
+  plot_list[[2]] <-    leaflet(data = world_list[[2]], width = "75%") %>% addTiles(options = providerTileOptions(minZoom=1, maxZoom=10)) %>% 
+  #addLegend(#pal = pal_pest_richness, 
+            #values = ~log(richness),
+            #labFormat = labelFormat(transform = function(x) exp(x), digits = 0),
+            #position = "topright",
+           # title = "No. of non-native pests") %>%
+  addPolygons(
+    fillColor = world_list[[2]]$key_phyt,
+    weight = 0.5,
+    opacity = 1,
+    color = "lightgrey",
+   # dashArray = "3",
+    fillOpacity = 0.6)
+  
+    plot_list[[3]] <-    leaflet(data = world_list[[3]], width = "75%") %>% addTiles(options = providerTileOptions(minZoom=1, maxZoom=10)) %>% 
+  #addLegend(#pal = pal_pest_richness, 
+            #values = ~log(richness),
+            #labFormat = labelFormat(transform = function(x) exp(x), digits = 0),
+            #position = "topright",
+           # title = "No. of non-native pests") %>%
+  addPolygons(
+    fillColor = world_list[[3]]$key_phyt,
+    weight = 0.5,
+    opacity = 1,
+    color = "lightgrey",
+   # dashArray = "3",
+    fillOpacity = 0.6)
+    
+      plot_list[[4]] <-    leaflet(data = world_list[[4]], width = "75%") %>% addTiles(options = providerTileOptions(minZoom=1, maxZoom=10)) %>% 
+  #addLegend(#pal = pal_pest_richness, 
+            #values = ~log(richness),
+            #labFormat = labelFormat(transform = function(x) exp(x), digits = 0),
+            #position = "topright",
+           # title = "No. of non-native pests") %>%
+  addPolygons(
+    fillColor = world_list[[4]]$key_phyt,
+    weight = 0.5,
+    opacity = 1,
+    color = "lightgrey",
+   # dashArray = "3",
+    fillOpacity = 0.6)
+    
+```
+### WGSRPD Level 4
+```{r, echo = FALSE}
+      plot_list[[1]]
+```
+### WGSRPD Level 3
+```{r, echo = FALSE}
+      plot_list[[2]]
+```
+### WGSRPD Level 2
+```{r, echo = FALSE}
+      plot_list[[3]]
+```
+### WGSRPD Level 1
+```{r, echo = FALSE}
+      plot_list[[4]]
+```

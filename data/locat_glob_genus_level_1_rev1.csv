@@ -1,0 +1,741 @@
+"Phytophthora","Host","Level.1","Total","PxH.in.Scotland"
+"P. alni","Alnus","Europe",434,"Yes"
+"P. alni","Alnus","Northern America",1,"Yes"
+"P. austrocedri","Austrocedrus","Southern America",27,NA
+"P. austrocedri","Cupressus","Asia-Temperate",2,"Yes"
+"P. austrocedri","Ginkgo","Europe",2,NA
+"P. austrocedri","Juniperus","Europe",3,"Yes"
+"P. austrocedri","Metasequoia","Europe",2,NA
+"P. austrocedri","Pinus","Europe",2,NA
+"P. austrocedri","Thuja",NA,1,NA
+"P. cinnamomi","Abelia","Australasia",4,NA
+"P. cinnamomi","Abies","Australasia",6,NA
+"P. cinnamomi","Abies","Europe",9,NA
+"P. cinnamomi","Abies","Northern America",46,NA
+"P. cinnamomi","Acacia","Australasia",33,NA
+"P. cinnamomi","Acacia","Northern America",1,NA
+"P. cinnamomi","Acacia","Pacific",2,NA
+"P. cinnamomi","Acer","Asia-Temperate",2,NA
+"P. cinnamomi","Acer","Europe",3,NA
+"P. cinnamomi","Acer","Northern America",4,NA
+"P. cinnamomi","Acrotriche","Australasia",3,NA
+"P. cinnamomi","Actinidia","Asia-Temperate",1,NA
+"P. cinnamomi","Actinidia","Australasia",19,NA
+"P. cinnamomi","Actinidia","Europe",1,NA
+"P. cinnamomi","Actinodium","Australasia",2,NA
+"P. cinnamomi","Adenanthos","Australasia",6,NA
+"P. cinnamomi","Agathis","Australasia",18,NA
+"P. cinnamomi","Agathosma","Africa",8,NA
+"P. cinnamomi","Agonis","Australasia",6,NA
+"P. cinnamomi","Allium","Pacific",1,NA
+"P. cinnamomi","Allium","Southern America",2,NA
+"P. cinnamomi","Allocasuarina","Australasia",22,NA
+"P. cinnamomi","Alnus","Australasia",2,NA
+"P. cinnamomi","Alnus","Europe",2,NA
+"P. cinnamomi","Alstroemeria","Europe",1,NA
+"P. cinnamomi","Amperea","Australasia",3,NA
+"P. cinnamomi","Ananas","Africa",4,NA
+"P. cinnamomi","Ananas","Asia-Temperate",5,NA
+"P. cinnamomi","Ananas","Asia-Tropical",2,NA
+"P. cinnamomi","Ananas","Australasia",143,NA
+"P. cinnamomi","Ananas","Northern America",5,NA
+"P. cinnamomi","Ananas","Pacific",17,NA
+"P. cinnamomi","Ananas","Southern America",2,NA
+"P. cinnamomi","Ananas",NA,1,NA
+"P. cinnamomi","Andersonia","Australasia",1,NA
+"P. cinnamomi","Andromeda","Europe",2,NA
+"P. cinnamomi","Angophora","Australasia",8,NA
+"P. cinnamomi","Anigozanthos","Australasia",2,NA
+"P. cinnamomi","Antidesma","Northern America",1,NA
+"P. cinnamomi","Antidesma","Pacific",1,NA
+"P. cinnamomi","Antirrhinum","Australasia",1,NA
+"P. cinnamomi","Aotus","Australasia",9,NA
+"P. cinnamomi","Araucaria","Africa",2,NA
+"P. cinnamomi","Araucaria","Asia-Tropical",2,NA
+"P. cinnamomi","Araucaria","Australasia",5,NA
+"P. cinnamomi","Araucaria","Europe",1,NA
+"P. cinnamomi","Araucaria","Northern America",1,NA
+"P. cinnamomi","Araucaria","Pacific",2,NA
+"P. cinnamomi","Araucaria","Southern America",1,NA
+"P. cinnamomi","Arbutus","Australasia",2,NA
+"P. cinnamomi","Arbutus","Europe",2,NA
+"P. cinnamomi","Arbutus","Northern America",2,NA
+"P. cinnamomi","Archidasyphyllum","Southern America",2,NA
+"P. cinnamomi","Archontophoenix","Australasia",1,NA
+"P. cinnamomi","Arctostaphylos","Australasia",1,NA
+"P. cinnamomi","Arctostaphylos","Northern America",7,NA
+"P. cinnamomi","Aristotelia","Australasia",1,NA
+"P. cinnamomi","Aristotelia","Southern America",3,NA
+"P. cinnamomi","Astelia","Australasia",4,NA
+"P. cinnamomi","Aucuba","Northern America",4,"Yes"
+"P. cinnamomi","Aulax","Africa",5,NA
+"P. cinnamomi","Aulax","Australasia",1,NA
+"P. cinnamomi","Azolla","Australasia",1,NA
+"P. cinnamomi","Backhousia","Australasia",2,NA
+"P. cinnamomi","Banksia","Africa",7,NA
+"P. cinnamomi","Banksia","Australasia",196,NA
+"P. cinnamomi","Banksia","Pacific",2,NA
+"P. cinnamomi","Bauera","Australasia",7,NA
+"P. cinnamomi","Beilschmiedia","Australasia",1,NA
+"P. cinnamomi","Berberidopsis","Australasia",2,NA
+"P. cinnamomi","Berberis","Europe",1,NA
+"P. cinnamomi","Berzelia","Africa",2,NA
+"P. cinnamomi","Berzelia","Australasia",2,NA
+"P. cinnamomi","Betula","Australasia",13,NA
+"P. cinnamomi","Betula","Europe",2,NA
+"P. cinnamomi","Betula","Northern America",4,NA
+"P. cinnamomi","Billardiera","Australasia",1,NA
+"P. cinnamomi","Blandfordia","Australasia",3,NA
+"P. cinnamomi","Boronia","Australasia",25,NA
+"P. cinnamomi","Boronia","Europe",1,NA
+"P. cinnamomi","Bossiaea","Australasia",5,NA
+"P. cinnamomi","Brabejum","Africa",4,NA
+"P. cinnamomi","Brunonia","Australasia",2,NA
+"P. cinnamomi","Buxus","Northern America",7,NA
+"P. cinnamomi","Cajanus","Northern America",1,NA
+"P. cinnamomi","Cajanus","Pacific",1,NA
+"P. cinnamomi","Caladenia","Australasia",1,NA
+"P. cinnamomi","Caleana","Australasia",2,NA
+"P. cinnamomi","Callitris","Australasia",4,NA
+"P. cinnamomi","Calluna","Australasia",6,"Yes"
+"P. cinnamomi","Calluna","Europe",8,"Yes"
+"P. cinnamomi","Calluna","Northern America",1,"Yes"
+"P. cinnamomi","Calocedrus","Northern America",6,NA
+"P. cinnamomi","Calytrix","Australasia",7,NA
+"P. cinnamomi","Camelia","Europe",1,NA
+"P. cinnamomi","Camelia","Northern America",1,NA
+"P. cinnamomi","Camellia","Asia-Temperate",3,NA
+"P. cinnamomi","Camellia","Australasia",9,NA
+"P. cinnamomi","Camellia","Europe",3,NA
+"P. cinnamomi","Camellia","Northern America",25,NA
+"P. cinnamomi","Carex","Australasia",2,NA
+"P. cinnamomi","Carica","Australasia",2,NA
+"P. cinnamomi","Carica","Southern America",2,NA
+"P. cinnamomi","Carpodetus","Australasia",4,NA
+"P. cinnamomi","Carya","Asia-Temperate",1,NA
+"P. cinnamomi","Carya","Australasia",4,NA
+"P. cinnamomi","Cassinia","Australasia",3,NA
+"P. cinnamomi","Cassiope","Europe",1,NA
+"P. cinnamomi","Castanea","Africa",4,"Yes"
+"P. cinnamomi","Castanea","Asia-Temperate",15,"Yes"
+"P. cinnamomi","Castanea","Australasia",46,"Yes"
+"P. cinnamomi","Castanea","Europe",125,"Yes"
+"P. cinnamomi","Castanea","Northern America",35,"Yes"
+"P. cinnamomi","Castanea","Southern America",4,"Yes"
+"P. cinnamomi","Castanopsis","Asia-Temperate",12,NA
+"P. cinnamomi","Castanopsis","Asia-Tropical",6,NA
+"P. cinnamomi","Casuarina","Africa",2,NA
+"P. cinnamomi","Casuarina","Australasia",22,NA
+"P. cinnamomi","Casuarina","Southern America",1,NA
+"P. cinnamomi","Ceanothus","Australasia",1,NA
+"P. cinnamomi","Ceanothus","Northern America",1,NA
+"P. cinnamomi","Cedrus","Africa",2,NA
+"P. cinnamomi","Cedrus","Europe",1,NA
+"P. cinnamomi","Cedrus","Northern America",12,NA
+"P. cinnamomi","Centaurea","Africa",1,NA
+"P. cinnamomi","Cephalotaxus","Australasia",4,NA
+"P. cinnamomi","Cephalotaxus","Northern America",1,NA
+"P. cinnamomi","Ceratopetalum","Australasia",2,NA
+"P. cinnamomi","Cercis","Northern America",2,NA
+"P. cinnamomi","Chamaecyparis","Africa",3,"Yes"
+"P. cinnamomi","Chamaecyparis","Asia-Temperate",10,"Yes"
+"P. cinnamomi","Chamaecyparis","Australasia",20,"Yes"
+"P. cinnamomi","Chamaecyparis","Europe",17,"Yes"
+"P. cinnamomi","Chamaecyparis","Northern America",12,"Yes"
+"P. cinnamomi","Chamaescilla","Australasia",8,NA
+"P. cinnamomi","Chamelaucium","Australasia",40,NA
+"P. cinnamomi","Cheirodendron","Northern America",1,NA
+"P. cinnamomi","Cheirodendron","Pacific",2,NA
+"P. cinnamomi","Chorizema","Australasia",2,NA
+"P. cinnamomi","Chrysanthemum",NA,1,NA
+"P. cinnamomi","Cibotium","Northern America",3,NA
+"P. cinnamomi","Cibotium","Pacific",4,NA
+"P. cinnamomi","Cinchona","Africa",1,NA
+"P. cinnamomi","Cinchona","Asia-Temperate",8,NA
+"P. cinnamomi","Cinchona","Asia-Tropical",12,NA
+"P. cinnamomi","Cinchona","Europe",1,NA
+"P. cinnamomi","Cinchona","Southern America",7,NA
+"P. cinnamomi","Cinnamomum","Asia-Temperate",7,NA
+"P. cinnamomi","Cinnamomum","Asia-Tropical",41,NA
+"P. cinnamomi","Cinnamomum","Australasia",1,NA
+"P. cinnamomi","Cinnamomum","Northern America",2,NA
+"P. cinnamomi","Cissus","Australasia",1,NA
+"P. cinnamomi","Cistus","Australasia",1,NA
+"P. cinnamomi","Cistus","Europe",3,NA
+"P. cinnamomi","Citrus","Asia-Temperate",1,NA
+"P. cinnamomi","Citrus","Australasia",1,NA
+"P. cinnamomi","Citrus","Europe",2,NA
+"P. cinnamomi","Citrus","Northern America",3,NA
+"P. cinnamomi","Citrus","Southern America",4,NA
+"P. cinnamomi","Cliffortia","Africa",6,NA
+"P. cinnamomi","Coccoloba","Europe",2,NA
+"P. cinnamomi","Coleonema","Australasia",1,NA
+"P. cinnamomi","Coleus","Australasia",1,NA
+"P. cinnamomi","Colocasia","Pacific",4,NA
+"P. cinnamomi","Comptonia","Northern America",2,NA
+"P. cinnamomi","Conostephium","Australasia",2,NA
+"P. cinnamomi","Conostylis","Australasia",2,NA
+"P. cinnamomi","Coprosma","Australasia",7,NA
+"P. cinnamomi","Coprosma","Northern America",2,NA
+"P. cinnamomi","Coprosma","Pacific",2,NA
+"P. cinnamomi","Coriaria","Australasia",4,NA
+"P. cinnamomi","Cornus","Northern America",8,NA
+"P. cinnamomi","Corokia","Australasia",4,NA
+"P. cinnamomi","Correa","Australasia",8,NA
+"P. cinnamomi","Corymbia","Africa",2,NA
+"P. cinnamomi","Corymbia","Australasia",48,NA
+"P. cinnamomi","Corymbia","Northern America",2,NA
+"P. cinnamomi","Corymbia","Pacific",2,NA
+"P. cinnamomi","Cotoneaster","Australasia",2,NA
+"P. cinnamomi","Cotoneaster","Northern America",1,NA
+"P. cinnamomi","Couroupita","Europe",2,NA
+"P. cinnamomi","Crassula","Australasia",2,NA
+"P. cinnamomi","Cryptomeria","Australasia",2,NA
+"P. cinnamomi","Cryptomeria","Northern America",2,NA
+"P. cinnamomi","Cucumis","Northern America",1,NA
+"P. cinnamomi","Cucurbita","Australasia",2,NA
+"P. cinnamomi","Cupressus","Australasia",4,NA
+"P. cinnamomi","Cupressus","Europe",1,NA
+"P. cinnamomi","Cupressus","Northern America",5,NA
+"P. cinnamomi","Cupressus","Southern America",2,NA
+"P. cinnamomi","Curcuma","Asia-Temperate",1,NA
+"P. cinnamomi","Curtisia","Africa",2,NA
+"P. cinnamomi","Cyathodes","Australasia",2,NA
+"P. cinnamomi","Cyclamen","Australasia",2,NA
+"P. cinnamomi","Cyrilla","Northern America",1,NA
+"P. cinnamomi","Daboecia","Australasia",4,NA
+"P. cinnamomi","Dacrycarpus","Australasia",1,NA
+"P. cinnamomi","Dampiera","Australasia",2,NA
+"P. cinnamomi","Daphne","Australasia",7,NA
+"P. cinnamomi","Daphne","Northern America",1,NA
+"P. cinnamomi","Darwinia","Australasia",3,NA
+"P. cinnamomi","Daviesia","Australasia",2,NA
+"P. cinnamomi","Desfontainia","Australasia",2,NA
+"P. cinnamomi","Dianella","Australasia",2,NA
+"P. cinnamomi","Dicksonia","Australasia",2,NA
+"P. cinnamomi","Dicranopteris","Northern America",1,NA
+"P. cinnamomi","Dicranopteris","Pacific",1,NA
+"P. cinnamomi","Didymochlaena","Australasia",2,NA
+"P. cinnamomi","Dielsiodoxa","Australasia",2,NA
+"P. cinnamomi","Dillwynia","Australasia",9,NA
+"P. cinnamomi","Dionaea","Northern America",2,NA
+"P. cinnamomi","Diospyros","Asia-Temperate",4,NA
+"P. cinnamomi","Diplolaena","Australasia",3,NA
+"P. cinnamomi","Disa","Australasia",1,NA
+"P. cinnamomi","Dracaena","Northern America",2,NA
+"P. cinnamomi","Drimys","Southern America",3,NA
+"P. cinnamomi","Drosera","Australasia",2,NA
+"P. cinnamomi","Durio","Asia-Tropical",3,NA
+"P. cinnamomi","Elaeocarpus","Australasia",5,NA
+"P. cinnamomi","Encephalartos","Australasia",2,NA
+"P. cinnamomi","Engelhardia","Asia-Temperate",1,NA
+"P. cinnamomi","Entelea","Australasia",1,NA
+"P. cinnamomi","Epacris","Australasia",17,NA
+"P. cinnamomi","Erica","Africa",4,"Yes"
+"P. cinnamomi","Erica","Australasia",21,"Yes"
+"P. cinnamomi","Erica","Europe",8,"Yes"
+"P. cinnamomi","Erica","Northern America",9,"Yes"
+"P. cinnamomi","Eucalyptus","Africa",18,NA
+"P. cinnamomi","Eucalyptus","Australasia",190,NA
+"P. cinnamomi","Eucalyptus","Europe",2,NA
+"P. cinnamomi","Eucalyptus","Northern America",6,NA
+"P. cinnamomi","Eucalyptus","Pacific",8,NA
+"P. cinnamomi","Eucalyptus","Southern America",1,NA
+"P. cinnamomi","Eucryphia","Australasia",3,NA
+"P. cinnamomi","Eustoma","Asia-Temperate",5,NA
+"P. cinnamomi","Fagus","Asia-Temperate",3,"Yes"
+"P. cinnamomi","Fagus","Europe",1,"Yes"
+"P. cinnamomi","Fagus","Northern America",2,"Yes"
+"P. cinnamomi","Fatsia","Australasia",4,NA
+"P. cinnamomi","Feijoa","Australasia",1,NA
+"P. cinnamomi","Ficus","Asia-Temperate",3,NA
+"P. cinnamomi","Ficus","Northern America",2,NA
+"P. cinnamomi","Ficus","Southern America",1,NA
+"P. cinnamomi","Flaveria","Australasia",1,NA
+"P. cinnamomi","Flindersia","Northern America",1,NA
+"P. cinnamomi","Flindersia","Pacific",1,NA
+"P. cinnamomi","Forsythia","Australasia",2,NA
+"P. cinnamomi","Forsythia","Northern America",1,NA
+"P. cinnamomi","Freycinetia","Northern America",1,NA
+"P. cinnamomi","Freycinetia","Pacific",1,NA
+"P. cinnamomi","Fuchsia","Australasia",6,NA
+"P. cinnamomi","Gahnia","Australasia",2,NA
+"P. cinnamomi","Garrya","Australasia",2,NA
+"P. cinnamomi","Gaultheria","Australasia",8,NA
+"P. cinnamomi","Gaultheria","Europe",1,NA
+"P. cinnamomi","Gaultheria","Northern America",2,NA
+"P. cinnamomi","Geniostoma","Australasia",2,NA
+"P. cinnamomi","Gerbera","Australasia",1,"Yes"
+"P. cinnamomi","Gevuina","Australasia",6,NA
+"P. cinnamomi","Ginkgo","Australasia",1,NA
+"P. cinnamomi","Gleichenia","Pacific",1,NA
+"P. cinnamomi","Glochidion","Asia-Temperate",2,NA
+"P. cinnamomi","Gompholobium","Australasia",5,NA
+"P. cinnamomi","Gonocarpus","Australasia",6,NA
+"P. cinnamomi","Goodenia","Australasia",2,NA
+"P. cinnamomi","Grevillea","Australasia",30,NA
+"P. cinnamomi","Griselinia","Australasia",6,NA
+"P. cinnamomi","Gymnostoma","Australasia",2,NA
+"P. cinnamomi","Hakea","Africa",2,NA
+"P. cinnamomi","Hakea","Australasia",19,NA
+"P. cinnamomi","Harpullia","Australasia",1,NA
+"P. cinnamomi","Hedera","Europe",2,NA
+"P. cinnamomi","Hedycarya","Australasia",1,NA
+"P. cinnamomi","Helleborus","Australasia",1,NA
+"P. cinnamomi","Helmholtzia","Australasia",1,NA
+"P. cinnamomi","Hesperocyparis","Australasia",11,NA
+"P. cinnamomi","Hesperoyucca","Australasia",3,NA
+"P. cinnamomi","Heuchera","Northern America",1,NA
+"P. cinnamomi","Hibbertia","Australasia",24,NA
+"P. cinnamomi","Hibiscus","Australasia",1,NA
+"P. cinnamomi","Hovea","Australasia",6,NA
+"P. cinnamomi","Hudsonia","Northern America",2,NA
+"P. cinnamomi","Hydrangea","Northern America",1,NA
+"P. cinnamomi","Hydrangea","Pacific",1,NA
+"P. cinnamomi","Hydrocotyle","Australasia",2,NA
+"P. cinnamomi","Hypericum","Asia-Temperate",8,NA
+"P. cinnamomi","Hypocalymma","Australasia",9,NA
+"P. cinnamomi","Hypochaeris","Australasia",2,NA
+"P. cinnamomi","Iberis","Europe",1,NA
+"P. cinnamomi","Iberis","Northern America",1,NA
+"P. cinnamomi","Idesia","Asia-Temperate",2,NA
+"P. cinnamomi","Ilex","Europe",2,"Yes"
+"P. cinnamomi","Ilex","Northern America",15,"Yes"
+"P. cinnamomi","Isopogon","Australasia",18,NA
+"P. cinnamomi","Itea","Northern America",1,NA
+"P. cinnamomi","Jacaranda","Australasia",2,NA
+"P. cinnamomi","Juglans","Asia-Temperate",3,NA
+"P. cinnamomi","Juglans","Australasia",13,NA
+"P. cinnamomi","Juglans","Europe",9,NA
+"P. cinnamomi","Juglans","Northern America",15,NA
+"P. cinnamomi","Juglans","Southern America",18,NA
+"P. cinnamomi","Juniperus","Australasia",13,"Yes"
+"P. cinnamomi","Juniperus","Europe",3,"Yes"
+"P. cinnamomi","Juniperus","Northern America",9,"Yes"
+"P. cinnamomi","Kadua","Pacific",1,NA
+"P. cinnamomi","Kalmia","Europe",4,"Yes"
+"P. cinnamomi","Kalmia","Northern America",5,"Yes"
+"P. cinnamomi","Kingia","Australasia",1,NA
+"P. cinnamomi","Knightia","Australasia",5,NA
+"P. cinnamomi","Kunzea","Australasia",11,NA
+"P. cinnamomi","Lactuca","Australasia",1,NA
+"P. cinnamomi","Lagunaria","Australasia",1,NA
+"P. cinnamomi","Larix","Asia-Temperate",2,NA
+"P. cinnamomi","Larix","Australasia",12,NA
+"P. cinnamomi","Larix","Northern America",7,NA
+"P. cinnamomi","Lasiopetalum","Australasia",2,NA
+"P. cinnamomi","Laurus","Europe",2,"Yes"
+"P. cinnamomi","Lavandula","Europe",2,NA
+"P. cinnamomi","Lepidosperma","Australasia",3,NA
+"P. cinnamomi","Leptecophylla","Australasia",4,NA
+"P. cinnamomi","Leptecophylla","Northern America",1,NA
+"P. cinnamomi","Leptecophylla","Pacific",1,NA
+"P. cinnamomi","Leptospermum","Australasia",14,NA
+"P. cinnamomi","Leschenaultia","Australasia",1,NA
+"P. cinnamomi","Leucadendron","Africa",147,NA
+"P. cinnamomi","Leucadendron","Asia-Temperate",2,NA
+"P. cinnamomi","Leucadendron","Australasia",31,NA
+"P. cinnamomi","Leucadendron","Northern America",13,NA
+"P. cinnamomi","Leucadendron","Pacific",1,NA
+"P. cinnamomi","Leucophyllum","Northern America",2,NA
+"P. cinnamomi","Leucopogon","Australasia",25,NA
+"P. cinnamomi","Leucospermum","Africa",158,NA
+"P. cinnamomi","Leucospermum","Australasia",15,NA
+"P. cinnamomi","Leucospermum","Northern America",4,NA
+"P. cinnamomi","Leucospermum","Pacific",3,NA
+"P. cinnamomi","Leycesteria","Australasia",1,NA
+"P. cinnamomi","Lilium","Asia-Temperate",3,NA
+"P. cinnamomi","Lilium","Australasia",1,NA
+"P. cinnamomi","Limonium","Asia-Temperate",2,NA
+"P. cinnamomi","Liparia","Africa",2,NA
+"P. cinnamomi","Liriodendron","Northern America",2,NA
+"P. cinnamomi","Lissanthe","Australasia",2,NA
+"P. cinnamomi","Litchi","Australasia",3,NA
+"P. cinnamomi","Lithocarpus","Asia-Temperate",4,NA
+"P. cinnamomi","Litsea","Australasia",1,NA
+"P. cinnamomi","Lomatia","Australasia",2,NA
+"P. cinnamomi","Lophomyrtus","Australasia",4,NA
+"P. cinnamomi","Lophostemon","Australasia",4,NA
+"P. cinnamomi","Luma","Southern America",3,NA
+"P. cinnamomi","Lupinus","Australasia",23,NA
+"P. cinnamomi","Lycopodium","Australasia",8,NA
+"P. cinnamomi","Lycopodium","Pacific",1,NA
+"P. cinnamomi","Macadamia","Africa",2,NA
+"P. cinnamomi","Macadamia","Asia-Temperate",1,NA
+"P. cinnamomi","Macadamia","Australasia",31,NA
+"P. cinnamomi","Macadamia","Northern America",10,NA
+"P. cinnamomi","Macadamia","Pacific",2,NA
+"P. cinnamomi","Machilus","Asia-Temperate",5,NA
+"P. cinnamomi","Macrozamia","Australasia",5,NA
+"P. cinnamomi","Magnolia","Asia-Tropical",1,NA
+"P. cinnamomi","Magnolia","Australasia",3,NA
+"P. cinnamomi","Magnolia","Europe",2,NA
+"P. cinnamomi","Mandevilla","Northern America",2,NA
+"P. cinnamomi","Melaleuca","Australasia",28,NA
+"P. cinnamomi","Melaleuca","Europe",1,NA
+"P. cinnamomi","Melanopsidium","Asia-Temperate",2,NA
+"P. cinnamomi","Melanopsidium","Southern America",1,NA
+"P. cinnamomi","Melastoma","Northern America",1,NA
+"P. cinnamomi","Melastoma","Pacific",1,NA
+"P. cinnamomi","Melicytus","Australasia",4,NA
+"P. cinnamomi","Meryta","Australasia",4,NA
+"P. cinnamomi","Metrosideros","Australasia",9,NA
+"P. cinnamomi","Metrosideros","Pacific",4,NA
+"P. cinnamomi","Microbiota","Europe",2,NA
+"P. cinnamomi","Micromyrtus","Australasia",2,NA
+"P. cinnamomi","Mimetes","Africa",9,NA
+"P. cinnamomi","Mirbelia","Australasia",2,NA
+"P. cinnamomi","Mitrasacme","Australasia",1,NA
+"P. cinnamomi","Monotoca","Australasia",5,NA
+"P. cinnamomi","Mucuna","Northern America",1,NA
+"P. cinnamomi","Mucuna","Pacific",1,NA
+"P. cinnamomi","Myrsine","Australasia",5,NA
+"P. cinnamomi","Myrsine","Northern America",2,NA
+"P. cinnamomi","Myrsine","Pacific",2,NA
+"P. cinnamomi","Myrtus","Europe",4,NA
+"P. cinnamomi","Nematolepis","Australasia",3,NA
+"P. cinnamomi","Neolitsea","Asia-Tropical",1,NA
+"P. cinnamomi","Neopanax","Australasia",4,NA
+"P. cinnamomi","Nestegis","Australasia",4,NA
+"P. cinnamomi","Nicotiana",NA,1,NA
+"P. cinnamomi","Nothofagus","Asia-Tropical",2,NA
+"P. cinnamomi","Nothofagus","Australasia",39,NA
+"P. cinnamomi","Nothofagus","Southern America",3,NA
+"P. cinnamomi","Notholithocarpus","Northern America",8,NA
+"P. cinnamomi","Nymania","Africa",2,NA
+"P. cinnamomi","Ocotea","Africa",2,NA
+"P. cinnamomi","Ocotea","Southern America",4,NA
+"P. cinnamomi","Olea","Australasia",3,NA
+"P. cinnamomi","Olea","Europe",1,NA
+"P. cinnamomi","Olearia","Australasia",7,NA
+"P. cinnamomi","Orothamnus","Africa",6,NA
+"P. cinnamomi","Oxylobium","Australasia",11,NA
+"P. cinnamomi","Panax","Asia-Temperate",1,NA
+"P. cinnamomi","Pandanus","Pacific",1,NA
+"P. cinnamomi","Pandorea","Australasia",1,NA
+"P. cinnamomi","Paranomus","Africa",4,NA
+"P. cinnamomi","Passiflora","Australasia",9,NA
+"P. cinnamomi","Passiflora","Pacific",2,NA
+"P. cinnamomi","Passiflora","Southern America",1,NA
+"P. cinnamomi","Patersonia","Australasia",4,NA
+"P. cinnamomi","Pectinopitys","Australasia",4,NA
+"P. cinnamomi","Pentameris","Australasia",2,NA
+"P. cinnamomi","Pericallis","Australasia",2,"Yes"
+"P. cinnamomi","Pericalymma","Australasia",2,NA
+"P. cinnamomi","Perrottetia","Northern America",1,NA
+"P. cinnamomi","Perrottetia","Pacific",1,NA
+"P. cinnamomi","Persea","Africa",13,NA
+"P. cinnamomi","Persea","Asia-Temperate",9,NA
+"P. cinnamomi","Persea","Asia-Tropical",8,NA
+"P. cinnamomi","Persea","Australasia",138,NA
+"P. cinnamomi","Persea","Europe",6,NA
+"P. cinnamomi","Persea","Northern America",34,NA
+"P. cinnamomi","Persea","Pacific",5,NA
+"P. cinnamomi","Persea","Southern America",162,NA
+"P. cinnamomi","Persea",NA,1,NA
+"P. cinnamomi","Persoonia","Australasia",3,NA
+"P. cinnamomi","Petrophile","Australasia",7,NA
+"P. cinnamomi","Phaseolus","Southern America",1,NA
+"P. cinnamomi","Philotheca","Australasia",1,NA
+"P. cinnamomi","Phormium","Australasia",4,NA
+"P. cinnamomi","Phyllocladus","Australasia",7,NA
+"P. cinnamomi","Picea","Europe",1,NA
+"P. cinnamomi","Picea","Northern America",18,NA
+"P. cinnamomi","Pieris","Australasia",11,"Yes"
+"P. cinnamomi","Pieris","Europe",2,"Yes"
+"P. cinnamomi","Pieris","Northern America",8,"Yes"
+"P. cinnamomi","Pimelea","Australasia",9,NA
+"P. cinnamomi","Pinus","Africa",14,"Yes"
+"P. cinnamomi","Pinus","Asia-Tropical",1,"Yes"
+"P. cinnamomi","Pinus","Australasia",180,"Yes"
+"P. cinnamomi","Pinus","Europe",22,"Yes"
+"P. cinnamomi","Pinus","Northern America",42,"Yes"
+"P. cinnamomi","Pinus","Southern America",5,"Yes"
+"P. cinnamomi","Piper","Australasia",1,NA
+"P. cinnamomi","Pipturus","Northern America",1,NA
+"P. cinnamomi","Pipturus","Pacific",1,NA
+"P. cinnamomi","Pistacia","Europe",1,NA
+"P. cinnamomi","Platanus","Australasia",7,NA
+"P. cinnamomi","Platanus","Europe",7,NA
+"P. cinnamomi","Platanus","Northern America",5,NA
+"P. cinnamomi","Platanus","Southern America",2,NA
+"P. cinnamomi","Platylobium","Australasia",3,NA
+"P. cinnamomi","Platysace","Australasia",2,NA
+"P. cinnamomi","Podocarpus","Australasia",5,NA
+"P. cinnamomi","Podotheca","Australasia",2,NA
+"P. cinnamomi","Polygala","Australasia",1,NA
+"P. cinnamomi","Polystichum","Northern America",4,NA
+"P. cinnamomi","Pomaderris","Australasia",2,NA
+"P. cinnamomi","Protea","Africa",95,NA
+"P. cinnamomi","Protea","Australasia",24,NA
+"P. cinnamomi","Protea","Europe",1,NA
+"P. cinnamomi","Protea","Northern America",11,NA
+"P. cinnamomi","Protea","Pacific",4,NA
+"P. cinnamomi","Prunus","Africa",2,"Yes"
+"P. cinnamomi","Prunus","Australasia",17,"Yes"
+"P. cinnamomi","Prunus","Europe",2,"Yes"
+"P. cinnamomi","Prunus","Northern America",9,"Yes"
+"P. cinnamomi","Pseudopanax","Australasia",4,NA
+"P. cinnamomi","Pseudotsuga","Australasia",28,NA
+"P. cinnamomi","Pseudotsuga","Europe",1,NA
+"P. cinnamomi","Pseudotsuga","Northern America",7,NA
+"P. cinnamomi","Psidium","Northern America",1,NA
+"P. cinnamomi","Psidium","Pacific",1,NA
+"P. cinnamomi","Psychotria","Pacific",1,NA
+"P. cinnamomi","Pteris","Northern America",2,NA
+"P. cinnamomi","Pterochaeta","Australasia",5,NA
+"P. cinnamomi","Pterophylla","Australasia",1,NA
+"P. cinnamomi","Pultenaea","Australasia",17,NA
+"P. cinnamomi","Pyracantha","Northern America",1,NA
+"P. cinnamomi","Pyrus","Africa",4,NA
+"P. cinnamomi","Pyrus","Australasia",5,NA
+"P. cinnamomi","Pyrus","Northern America",3,NA
+"P. cinnamomi","Quercus","Africa",5,NA
+"P. cinnamomi","Quercus","Asia-Temperate",22,NA
+"P. cinnamomi","Quercus","Asia-Tropical",1,NA
+"P. cinnamomi","Quercus","Australasia",3,NA
+"P. cinnamomi","Quercus","Europe",269,NA
+"P. cinnamomi","Quercus","Northern America",63,NA
+"P. cinnamomi","Rhamnus","Europe",3,NA
+"P. cinnamomi","Rhaphiolepis","Australasia",2,NA
+"P. cinnamomi","Rhododendron","Africa",1,"Yes"
+"P. cinnamomi","Rhododendron","Asia-Temperate",16,"Yes"
+"P. cinnamomi","Rhododendron","Asia-Tropical",1,"Yes"
+"P. cinnamomi","Rhododendron","Australasia",23,"Yes"
+"P. cinnamomi","Rhododendron","Europe",38,"Yes"
+"P. cinnamomi","Rhododendron","Northern America",79,"Yes"
+"P. cinnamomi","Rhododendron","Pacific",2,"Yes"
+"P. cinnamomi","Rhododendron",NA,1,"Yes"
+"P. cinnamomi","Richardia","Northern America",2,NA
+"P. cinnamomi","Richardia","Pacific",2,NA
+"P. cinnamomi","Ricinocarpos","Australasia",1,NA
+"P. cinnamomi","Ricinus","Northern America",1,NA
+"P. cinnamomi","Ricinus","Pacific",1,NA
+"P. cinnamomi","Robinia","Asia-Temperate",4,NA
+"P. cinnamomi","Robinia","Northern America",3,NA
+"P. cinnamomi","Rosa","Australasia",1,NA
+"P. cinnamomi","Rubus","Australasia",15,NA
+"P. cinnamomi","Rubus","Northern America",1,NA
+"P. cinnamomi","Rubus","Pacific",1,NA
+"P. cinnamomi","Rytidosperma","Australasia",2,NA
+"P. cinnamomi","Salvia","Australasia",6,NA
+"P. cinnamomi","Sarracenia","Europe",1,NA
+"P. cinnamomi","Saxegothaea","Southern America",4,NA
+"P. cinnamomi","Scaevola","Australasia",1,NA
+"P. cinnamomi","Sciadopitys","Australasia",4,NA
+"P. cinnamomi","Sciadopitys","Europe",1,NA
+"P. cinnamomi","Sciadopitys","Northern America",1,NA
+"P. cinnamomi","Senna","Australasia",1,NA
+"P. cinnamomi","Sequoia","Australasia",2,NA
+"P. cinnamomi","Sequoia","Europe",2,NA
+"P. cinnamomi","Sequoiadendron","Australasia",2,"Yes"
+"P. cinnamomi","Serruria","Africa",6,NA
+"P. cinnamomi","Serruria","Australasia",12,NA
+"P. cinnamomi","Siloxerus","Australasia",2,NA
+"P. cinnamomi","Solanum","Northern America",2,NA
+"P. cinnamomi","Solanum","Pacific",1,NA
+"P. cinnamomi","Solanum","Southern America",2,NA
+"P. cinnamomi","Sophora","Northern America",1,NA
+"P. cinnamomi","Sophora","Pacific",1,NA
+"P. cinnamomi","Sorbus","Asia-Temperate",2,NA
+"P. cinnamomi","Spathiphyllum","Australasia",2,NA
+"P. cinnamomi","Sphenotoma","Australasia",2,NA
+"P. cinnamomi","Sprengelia","Australasia",4,NA
+"P. cinnamomi","Stenanthera","Australasia",1,NA
+"P. cinnamomi","Stirlingia","Australasia",1,NA
+"P. cinnamomi","Stylidium","Australasia",9,NA
+"P. cinnamomi","Styphelia","Australasia",4,NA
+"P. cinnamomi","Symphytum","Australasia",2,NA
+"P. cinnamomi","Syncarpia","Australasia",1,NA
+"P. cinnamomi","Syzygium","Asia-Tropical",2,NA
+"P. cinnamomi","Syzygium","Australasia",6,NA
+"P. cinnamomi","Tabebuia","Australasia",1,NA
+"P. cinnamomi","Tabebuia","Europe",2,NA
+"P. cinnamomi","Tanacetum",NA,2,NA
+"P. cinnamomi","Tasmannia","Australasia",4,"Yes"
+"P. cinnamomi","Taxus","Australasia",5,"Yes"
+"P. cinnamomi","Taxus","Europe",10,"Yes"
+"P. cinnamomi","Taxus","Northern America",19,"Yes"
+"P. cinnamomi","Tecomaria","Australasia",2,NA
+"P. cinnamomi","Telopea","Africa",4,NA
+"P. cinnamomi","Telopea","Australasia",11,NA
+"P. cinnamomi","Tetratheca","Australasia",8,NA
+"P. cinnamomi","Thomasia","Australasia",4,NA
+"P. cinnamomi","Thryptomene","Australasia",12,NA
+"P. cinnamomi","Thuja","Africa",1,NA
+"P. cinnamomi","Thuja","Europe",3,NA
+"P. cinnamomi","Thuja","Northern America",6,NA
+"P. cinnamomi","Thuja","Pacific",2,NA
+"P. cinnamomi","Thuja","Southern America",2,NA
+"P. cinnamomi","Toona","Pacific",1,NA
+"P. cinnamomi","Torreya","Asia-Temperate",2,NA
+"P. cinnamomi","Trachymene","Australasia",2,NA
+"P. cinnamomi","Trifolium","Australasia",1,NA
+"P. cinnamomi","Trymalium","Australasia",2,NA
+"P. cinnamomi","Tsuga","Australasia",1,"Yes"
+"P. cinnamomi","Tsuga","Northern America",2,"Yes"
+"P. cinnamomi","Ugni","Australasia",1,NA
+"P. cinnamomi","Ulex","Australasia",1,NA
+"P. cinnamomi","Umbellularia","Northern America",2,NA
+"P. cinnamomi","Urostemon","Australasia",4,NA
+"P. cinnamomi","Vaccinium","Asia-Temperate",4,"Yes"
+"P. cinnamomi","Vaccinium","Australasia",30,"Yes"
+"P. cinnamomi","Vaccinium","Europe",12,"Yes"
+"P. cinnamomi","Vaccinium","Northern America",27,"Yes"
+"P. cinnamomi","Vaccinium","Southern America",6,"Yes"
+"P. cinnamomi","Vernicia","Northern America",4,NA
+"P. cinnamomi","Veronica","Australasia",4,NA
+"P. cinnamomi","Verticordia","Australasia",12,NA
+"P. cinnamomi","Viburnum","Australasia",3,NA
+"P. cinnamomi","Viburnum","Europe",2,NA
+"P. cinnamomi","Viburnum","Northern America",2,NA
+"P. cinnamomi","Vigna","Australasia",6,NA
+"P. cinnamomi","Viola","Australasia",1,NA
+"P. cinnamomi","Vitex","Australasia",1,NA
+"P. cinnamomi","Vitis","Africa",19,NA
+"P. cinnamomi","Vitis","Australasia",24,NA
+"P. cinnamomi","Vitis","Europe",2,NA
+"P. cinnamomi","Washingtonia","Australasia",1,NA
+"P. cinnamomi","Widdringtonia","Africa",3,NA
+"P. cinnamomi","Wodyetia","Australasia",2,NA
+"P. cinnamomi","Wollemia","Australasia",70,NA
+"P. cinnamomi","Xanthomyrtus","Northern America",4,NA
+"P. cinnamomi","Xanthorrhoea","Australasia",53,NA
+"P. cinnamomi","Xeronema","Australasia",5,NA
+"P. cinnamomi","Xerophyllum","Northern America",1,NA
+"P. cinnamomi","Xylomelum","Australasia",2,NA
+"P. cinnamomi","Zamia","Asia-Temperate",1,NA
+"P. kernoviae","Agathis","Australasia",1,NA
+"P. kernoviae","Annona","Australasia",22,NA
+"P. kernoviae","Drimys","Europe",1,NA
+"P. kernoviae","Drimys","Southern America",2,NA
+"P. kernoviae","Fagus","Australasia",1,"Yes"
+"P. kernoviae","Fagus",NA,1,"Yes"
+"P. kernoviae","Ficus","Australasia",1,NA
+"P. kernoviae","Magnolia","Australasia",1,"Yes"
+"P. kernoviae","Magnolia",NA,1,"Yes"
+"P. kernoviae","Pectinopitys","Australasia",1,NA
+"P. kernoviae","Pinus","Australasia",47,NA
+"P. kernoviae","Rhododendron","Australasia",7,"Yes"
+"P. kernoviae","Rhododendron","Europe",12,"Yes"
+"P. kernoviae","Rhododendron",NA,1,"Yes"
+"P. pinifolia","Pinus","Southern America",22,NA
+"P. pluvialis","Notholithocarpus","Northern America",3,NA
+"P. pluvialis","Pinus","Australasia",205,NA
+"P. pluvialis","Pseudotsuga","Australasia",16,"Yes"
+"P. pluvialis","Pseudotsuga","Northern America",9,"Yes"
+"P. pseudosyringae","Abies","Northern America",2,NA
+"P. pseudosyringae","Acer","Europe",2,"Yes"
+"P. pseudosyringae","Aesculus","Europe",4,NA
+"P. pseudosyringae","Alnus","Europe",9,NA
+"P. pseudosyringae","Alnus","Northern America",5,NA
+"P. pseudosyringae","Arctostaphylos","Northern America",1,NA
+"P. pseudosyringae","Camellia","Northern America",1,NA
+"P. pseudosyringae","Castanea","Europe",11,NA
+"P. pseudosyringae","Fagus","Europe",28,"Yes"
+"P. pseudosyringae","Fraxinus","Europe",7,NA
+"P. pseudosyringae","Hedera","Europe",3,NA
+"P. pseudosyringae","Ilex","Europe",1,NA
+"P. pseudosyringae","Laburnum","Europe",2,NA
+"P. pseudosyringae","Laurus","Northern America",1,NA
+"P. pseudosyringae","Nothofagus","Southern America",2,"Yes"
+"P. pseudosyringae","Notholithocarpus","Northern America",5,NA
+"P. pseudosyringae","Pieris","Northern America",1,"Yes"
+"P. pseudosyringae","Quercus","Europe",19,"Yes"
+"P. pseudosyringae","Quercus","Northern America",10,"Yes"
+"P. pseudosyringae","Rhododendron","Europe",1,"Yes"
+"P. pseudosyringae","Rhododendron","Northern America",1,"Yes"
+"P. pseudosyringae","Salix","Northern America",1,NA
+"P. pseudosyringae","Tilia","Europe",2,NA
+"P. pseudosyringae","Umbellularia","Northern America",12,NA
+"P. ramorum","Abies","Europe",6,"Yes"
+"P. ramorum","Abies","Northern America",5,"Yes"
+"P. ramorum","Abies",NA,1,"Yes"
+"P. ramorum","Acer","Northern America",4,NA
+"P. ramorum","Acer",NA,1,NA
+"P. ramorum","Adiantum","Northern America",10,NA
+"P. ramorum","Aesculus","Northern America",4,NA
+"P. ramorum","Arbutus","Europe",2,NA
+"P. ramorum","Arbutus","Northern America",9,NA
+"P. ramorum","Arctostaphylos","Northern America",10,NA
+"P. ramorum","Berberis","Australasia",1,NA
+"P. ramorum","Berberis","Northern America",1,NA
+"P. ramorum","Calluna","Europe",2,NA
+"P. ramorum","Camellia","Europe",11,NA
+"P. ramorum","Camellia","Northern America",16,NA
+"P. ramorum","Castanea","Europe",5,NA
+"P. ramorum","Choisya","Europe",2,NA
+"P. ramorum","Chrysolepis","Northern America",1,NA
+"P. ramorum","Cinnamomum","Northern America",2,NA
+"P. ramorum","Cornus","Northern America",1,NA
+"P. ramorum","Corylus","Northern America",2,NA
+"P. ramorum","Cotoneaster",NA,1,NA
+"P. ramorum","Fagus","Europe",8,"Yes"
+"P. ramorum","Fagus",NA,1,"Yes"
+"P. ramorum","Frangula","Northern America",15,NA
+"P. ramorum","Fuchsia","Northern America",1,NA
+"P. ramorum","Gaultheria","Australasia",1,NA
+"P. ramorum","Gaultheria","Northern America",5,NA
+"P. ramorum","Gaylussacia","Northern America",1,NA
+"P. ramorum","Grevillea",NA,1,NA
+"P. ramorum","Hakonechloa",NA,1,NA
+"P. ramorum","Hamamelis","Northern America",1,NA
+"P. ramorum","Kalmia","Europe",1,"Yes"
+"P. ramorum","Kalmia","Northern America",1,"Yes"
+"P. ramorum","Larix","Asia-Temperate",1,"Yes"
+"P. ramorum","Larix","Europe",14,"Yes"
+"P. ramorum","Leptospermum","Northern America",1,NA
+"P. ramorum","Leucothoe","Europe",2,NA
+"P. ramorum","Leucothoe","Northern America",1,NA
+"P. ramorum","Lithocarpus","Northern America",2,NA
+"P. ramorum","Lonicera","Northern America",4,NA
+"P. ramorum","Lonicera",NA,1,NA
+"P. ramorum","Lophostemon","Northern America",1,NA
+"P. ramorum","Loropetalum","Northern America",3,NA
+"P. ramorum","Lysimachia","Northern America",7,NA
+"P. ramorum","Magnolia","Europe",5,"Yes"
+"P. ramorum","Magnolia","Northern America",1,"Yes"
+"P. ramorum","Magnolia",NA,1,"Yes"
+"P. ramorum","Maianthemum","Northern America",3,NA
+"P. ramorum","Malus","Europe",1,NA
+"P. ramorum","Neopanax","Northern America",1,NA
+"P. ramorum","Nothofagus","Northern America",1,"Yes"
+"P. ramorum","Notholithocarpus","Northern America",56,NA
+"P. ramorum","Osmanthus","Northern America",4,"Yes"
+"P. ramorum","Osmanthus",NA,1,"Yes"
+"P. ramorum","Phoradendron","Northern America",1,NA
+"P. ramorum","Photinia","Europe",2,NA
+"P. ramorum","Photinia","Northern America",4,NA
+"P. ramorum","Picea","Europe",3,"Yes"
+"P. ramorum","Pieris","Australasia",1,"Yes"
+"P. ramorum","Pieris","Europe",14,"Yes"
+"P. ramorum","Pieris","Northern America",20,"Yes"
+"P. ramorum","Pinus","Northern America",1,NA
+"P. ramorum","Pittosporum",NA,1,NA
+"P. ramorum","Prunus","Europe",2,NA
+"P. ramorum","Prunus","Northern America",3,NA
+"P. ramorum","Pseudotsuga","Northern America",6,NA
+"P. ramorum","Pyracantha","Northern America",1,NA
+"P. ramorum","Quercus","Europe",9,NA
+"P. ramorum","Quercus","Northern America",185,NA
+"P. ramorum","Rhamnus","Northern America",2,NA
+"P. ramorum","Rhododendron","Asia-Temperate",1,"Yes"
+"P. ramorum","Rhododendron","Australasia",1,"Yes"
+"P. ramorum","Rhododendron","Europe",236,"Yes"
+"P. ramorum","Rhododendron","Northern America",38,"Yes"
+"P. ramorum","Rhododendron",NA,2,"Yes"
+"P. ramorum","Rosa","Northern America",7,NA
+"P. ramorum","Rubus","Northern America",1,NA
+"P. ramorum","Sequoia","Northern America",11,NA
+"P. ramorum","Syringa","Northern America",1,NA
+"P. ramorum","Taxus",NA,1,NA
+"P. ramorum","Toxicodendron","Northern America",1,NA
+"P. ramorum","Umbellularia","Europe",1,NA
+"P. ramorum","Umbellularia","Northern America",213,NA
+"P. ramorum","Vaccinium","Europe",6,"Yes"
+"P. ramorum","Vaccinium","Northern America",17,"Yes"
+"P. ramorum","Viburnum","Australasia",1,"Yes"
+"P. ramorum","Viburnum","Europe",88,"Yes"
+"P. ramorum","Viburnum","Northern America",15,"Yes"
+"P. ramorum","Viburnum",NA,2,"Yes"
+"P. ramorum","Vinca","Northern America",1,NA

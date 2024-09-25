@@ -1,0 +1,165 @@
+---
+title: "Project Name"
+author: "kattur"
+date: ""
+output: html_document
+
+---
+
+## Phytophthora~host interactions in trade and the wider environment
+
+Here we provide tables showing the hosts on which the presence of key Phytopthora species has been recorded, and the pertinent number of records currently within our database. 
+
+Where known, the number of these records that relate to trade or wider environment premises is also provided ('Unknown' means that premises information was not readily available).
+
+If the combination of Phytopthora species and host has been recorded in Scotland, this is indicated as 'Yes' within the final column of each table.
+
+Separate sets of tables are provided for global (ex-UK) records, records from the UK (including Scotland), and records from Scotland only.
+
+Combinations of Phytopthora species and host can be viewed at either host species or genus rank, by selecting the relevant option from the drop down menu on each tab.
+
+Additionally, you can search by Phytopthora species or plant host name using the search box.
+
+
+<br>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_knit$set(root.dir = getwd())
+library(DT)
+library(raster)
+library(knitr)
+library(stringr)
+library(dplyr)
+library(kableExtra)
+```
+```{r host_data}
+
+
+glob_species <- read.csv("data/tr_wd_glob_species_rev1.csv", stringsAsFactors = FALSE)
+
+glob_genus <- read.csv("data/tr_wd_glob_genus_rev1.csv", stringsAsFactors = FALSE)
+
+#glob_family <- read.csv("data/tr_wd_glob_family_rev1.csv", stringsAsFactors = FALSE)
+
+uk_species <- read.csv("data/tr_wd_uk_species_rev1.csv", stringsAsFactors = FALSE)
+
+uk_genus <- read.csv("data/tr_wd_uk_genus_rev1.csv", stringsAsFactors = FALSE)
+
+#uk_family <- read.csv("data/tr_wd_uk_family_rev1.csv", stringsAsFactors = FALSE)
+
+scot_species <- read.csv("data/tr_wd_scot_species_rev1.csv", stringsAsFactors = FALSE)
+
+scot_genus <- read.csv("data/tr_wd_scot_genus_rev1.csv", stringsAsFactors = FALSE)
+
+#scot_family <- read.csv("data/tr_wd_scot_family_rev1.csv", stringsAsFactors = FALSE)
+
+
+```
+
+  
+
+
+```{r}
+library(DT)
+
+glob_species_dt <- datatable(glob_species,
+                              rownames = FALSE,
+                              filter = 'top')
+glob_genus_dt <- datatable(glob_genus,
+                             rownames = FALSE,                            
+                           filter = 'top')
+#glob_family_dt <- datatable(glob_family,
+#                             rownames = FALSE,                             
+#                               filter = 'top')
+
+uk_species_dt <- datatable(uk_species,
+                             rownames = FALSE,                              
+                           filter = 'top')
+uk_genus_dt <- datatable(uk_genus,
+                             rownames = FALSE,                            
+                         filter = 'top')
+#uk_family_dt <- datatable(uk_family,
+#                             rownames = FALSE,                            
+#                                filter = 'top')
+
+scot_species_dt <- datatable(scot_species,
+                             rownames = FALSE,                             
+                             filter = 'top')
+scot_genus_dt <- datatable(scot_genus,
+                             rownames = FALSE,                             
+                           filter = 'top')
+#scot_family_dt <- datatable(scot_family,
+#                             rownames = FALSE,                            
+#                                filter = 'top')
+```
+
+## {.tabset}
+
+### Scotland{.tabset .col-leftmid .tabset-dropdown}
+#### Species 
+```{r ,echo = FALSE}
+scot_species_dt   
+```
+#### Genus
+```{r ,echo = FALSE}
+scot_genus_dt
+```
+<!-- #### Family  -->
+<!-- ```{r ,echo = FALSE} -->
+<!-- scot_family_dt -->
+<!-- ``` -->
+##### {-}
+
+### {-}
+
+
+### UK{.tabset .col-leftmid .tabset-dropdown}
+#### Species 
+```{r ,echo = FALSE}
+uk_species_dt   
+```
+#### Genus
+```{r ,echo = FALSE}
+uk_genus_dt
+```
+<!-- #### Family  -->
+<!-- ```{r ,echo = FALSE} -->
+<!-- uk_family_dt -->
+<!-- ``` -->
+##### {-}
+
+### {-}
+
+### Global{.tabset .col-leftmid .tabset-dropdown}
+#### Species 
+```{r ,echo = FALSE}
+glob_species_dt   
+```
+#### Genus
+```{r ,echo = FALSE}
+glob_genus_dt
+```
+<!-- #### Family  -->
+<!-- ```{r ,echo = FALSE} -->
+<!-- glob_family_dt -->
+<!-- ``` -->
+##### {-}
+
+### {-}
+
+## {-}
+
+Note:
+  
+There may be additional records relating to a Phytophthora species that are not shown in these tables. This may occur if the host name was not provided with the original record detail, or if we have not been able to identify the given name to a known 'standardised'  name to at least the rank of genus.
+
+Seeming discrepancies between the total number of records of a certain Phytopthora species~host genus combination compared to the total number of records of that Phytopthora species with host species of that same genus, may be accounted for by some records originally identifying the host to genus level only.
+
+If a species name was originally provided with the record, but we have not been able to identify it to a known 'standardised' species name, then this record will be considered at genus level only.
+
+Some UK records are from premises marked as both trade and wider environment. These tend to relate to premises where there is both a point of sale for plants, along with extensive parkland or gardens. For this reason, the total number of records may not always be equal to the sum of the values in the trade, wider environment and 'unknown' columns.
+
+<br>
+
+
