@@ -1,6 +1,6 @@
 ---
-title: Phytophthora Detections Globally Key Host Species
-author: "kkk"
+title: Phytophthora and Hosts in the UK and Globally
+author: "Key Host Species"
 date: ""
 output: html_document
 # css: styles.css

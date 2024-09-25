@@ -1,6 +1,6 @@
 ---
-title: "Project Name"
-author: "kattur"
+title: "Phytophthora and Hosts in the UK and Globally"
+author: ""
 date: ""
 output: html_document
 

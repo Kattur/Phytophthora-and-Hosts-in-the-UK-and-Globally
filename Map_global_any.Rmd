@@ -1,6 +1,6 @@
 ---
-title: Phytophthora Detections Globally 
-author: "kkk"
+title: Phytophthora and Hosts in the UK and Globally 
+author: ""
 date: ""
 output: html_document
 # css: styles.css
@@ -28,7 +28,7 @@ world_list <- lapply(filepaths, st_read)
 
 
 ```
-## My header {.tabset .tabset-dropdown}
+##  {.tabset .tabset-dropdown}
 
 
 ```{r leaflet, echo = FALSE, warning=FALSE}

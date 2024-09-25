@@ -76,7 +76,7 @@ As with 'United Kingdom', there are some instances where other countries do not 
 ru_num <- read.csv("data/ru_number_rev1.csv", stringsAsFactors = FALSE)
 ru_num <- nrow(ru_num)
 
-glob_species_1 <- read.csv("data/countries_WGSRPD_rev1.csv", stringsAsFactors = FALSE)
+glob_species_1 <- read.csv("data/countries_WGSRPD.csv", stringsAsFactors = FALSE)
 ```
 
 ```{r new_dat}
