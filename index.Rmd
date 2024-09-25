@@ -1,0 +1,41 @@
+---
+title: "Phytophthora and Hosts in the UK and Globally"
+author: ""
+date: ""
+output: html_document
+
+---
+
+# LANDING PAGE
+
+
+
+
+Whilst we have attempted to avoid adding duplicate records to the phytophthora~host database, it is possible that during its compilation duplicates have arisen. Please bear this in mind therefore when referring to the number of records as indicated for the various outputs in these tables.
+
+
+Key phyto
+
+Key hosts
+
+
+Only records for which have standardised phyto and standardised host to at least genus.
+May therefore be other records within the database relating to phytophthora and/or hosts for which we have been unable to establish a standardised name, that are not represented in these outputs
+
+list of sources for the data
+
+### [Trade and Wider Environment Summary Tables](<trade_widerEnv_summary.html>) 
+
+
+
+### [Scottish, UK and Global Phytophora~host interactions](<location_summary.html>) 
+
+
+### [Host locations](<host_locations.html>) 
+
+### [Global Detections](<test.html>) 
+
+
+<br>
+
+
