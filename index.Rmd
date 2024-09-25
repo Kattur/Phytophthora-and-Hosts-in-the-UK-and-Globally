@@ -26,14 +26,13 @@ list of sources for the data
 
 ### [Trade and Wider Environment Summary Tables](<trade_widerEnv_summary.html>) 
 
-
-
 ### [Scottish, UK and Global Phytophora~host interactions](<location_summary.html>) 
-
 
 ### [Host locations](<host_locations.html>) 
 
-### [Global Detections](<test.html>) 
+### [Global Detections of Phytopthora](<Map_global_any.html>) 
+
+### [Global Detections of Phytopthora on key host species](<Map_global_key_host_species.html>) 
 
 
 <br>
