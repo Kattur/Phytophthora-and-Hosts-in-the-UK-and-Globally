@@ -1,6 +1,6 @@
 ---
-title: "Project Name"
-author: "kattur"
+title: "Phytophthora and Hosts in the UK and Globally"
+author: ""
 date: ""
 output: html_document
 
@@ -9,7 +9,7 @@ output: html_document
 # LANDING PAGE
 
 
-Some interesting text.
+
 
 Whilst we have attempted to avoid adding duplicate records to the phytophthora~host database, it is possible that during its compilation duplicates have arisen. Please bear this in mind therefore when referring to the number of records as indicated for the various outputs in these tables.
 
