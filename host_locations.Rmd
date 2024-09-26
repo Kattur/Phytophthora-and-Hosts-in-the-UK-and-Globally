@@ -96,7 +96,7 @@ genus_l3_dt <- datatable(genus_l3,
 
 ### Species{.tabset .col-leftmid}
 #### Level.3 
-```{r ,echo = FALSE}
+```{r ,echo = FALSE, warning=FALSE}
 species_l3_dt   
 ```
 #### Level.2
