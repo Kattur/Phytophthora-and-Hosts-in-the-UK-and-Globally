@@ -28,6 +28,10 @@ world_list <- lapply(filepaths, st_read)
 
 
 ```
+
+# global locations are based on data within the database as have not got a distribution dataset for phyto
+
+
 ##  {.tabset .tabset-dropdown}
 
 
