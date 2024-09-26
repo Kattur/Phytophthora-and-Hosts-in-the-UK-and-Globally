@@ -30,7 +30,7 @@ list of sources for the data
 
 ### [Host locations](<host_locations.html>) 
 
-### [Phytophthora~Host interactions in the UK for key host species](<UK_Phyto-key host.html>)
+### [Phytophthora~Host interactions in the UK for key hosts](<UK-Phyto-key-host.html>)
 
 ### [Global Detections of Phytopthora](<Map_global_any.html>) 
 

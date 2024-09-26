@@ -19,7 +19,7 @@ library(kableExtra)
 ```
 
 
-## Phytophthora~Host interactions in the UK for key host species
+## Phytophthora~Host interactions in the UK for key host species and their genus
 
 
 Includes unspecified phyto
