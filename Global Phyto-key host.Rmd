@@ -1,0 +1,125 @@
+---
+title: "Phytophthora and Hosts in the UK and Globally"
+author: ""
+date: "" 
+output: html_document 
+#runtime: shiny
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_knit$set(root.dir = getwd())
+library(DT)
+library(raster)
+library(knitr)
+library(stringr)
+library(dplyr)
+library(kableExtra)
+```
+
+
+## Phytophthora~Host interactions in the UK for key host species
+
+
+Includes unspecified phyto, so that can see if there is any other county in which the key host has been recorded with a Phyto, but where the phyto is unspecified the UK, Eng, Wal and Scot columns will read NA, given that we are unaware of which specific Phyto species is in question, and therefor cannot say whether 
+it is recorded on that key host in the UK.
+
+
+<br>
+
+
+```{r host_data, include=FALSE}
+
+
+species_l1 <- read.csv("data/host_loc_sp_level1_rev1.csv", stringsAsFactors = FALSE)
+
+species_l2 <- read.csv("data/host_loc_sp_level2_rev1.csv", stringsAsFactors = FALSE)
+
+species_l3 <- read.csv("data/host_loc_sp_level3_rev1.csv", stringsAsFactors = FALSE)
+
+genus_l1 <- read.csv("data/host_loc_gen_level1_rev1.csv", stringsAsFactors = FALSE)
+
+genus_l2 <- read.csv("data/host_loc_gen_level2_rev1.csv", stringsAsFactors = FALSE)
+
+genus_l3 <- read.csv("data/host_loc_gen_level3_rev1.csv", stringsAsFactors = FALSE)
+
+
+```
+
+  
+
+```{r}
+library(DT)
+
+species_l1_dt <- datatable(species_l1,
+                             rownames = FALSE,
+                             filter = 'top')
+
+species_l2_dt <- datatable(species_l2,
+                             rownames = FALSE,
+                             filter = 'top')
+
+species_l3_dt <- datatable(species_l3,
+                             rownames = FALSE,
+                             filter = 'top')
+
+genus_l1_dt <- datatable(genus_l1,
+                             rownames = FALSE,
+                             filter = 'top')
+
+
+genus_l2_dt <- datatable(genus_l2,
+                             rownames = FALSE,
+                             filter = 'top')
+
+genus_l3_dt <- datatable(genus_l3,
+                             rownames = FALSE,
+                             filter = 'top') 
+```
+
+## {.tabset}
+
+### Species{.tabset .col-leftmid}
+#### Level.3 
+```{r ,echo = FALSE}
+species_l3_dt   
+```
+#### Level.2
+```{r ,echo = FALSE}
+species_l2_dt
+```
+#### Level.1
+```{r ,echo = FALSE}
+species_l1_dt
+```
+##### {-}
+
+### {-}
+
+### Genus{.tabset .col-leftmid}
+#### Level.3 
+```{r ,echo = FALSE, warning = FALSE}
+genus_l3_dt   
+```
+#### Level.2
+```{r ,echo = FALSE}
+genus_l2_dt
+```
+#### Level.1
+```{r ,echo = FALSE}
+genus_l1_dt
+```
+
+##### {-}
+
+### {-}
+
+## {-}
+
+
+
+
+<br>
+
+

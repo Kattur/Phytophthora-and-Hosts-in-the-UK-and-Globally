@@ -1,0 +1,168 @@
+---
+title: "Phytophthora and Hosts in the UK and Globally"
+author: ""
+date: "" 
+output: html_document 
+#runtime: shiny
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_knit$set(root.dir = getwd())
+library(DT)
+library(raster)
+library(knitr)
+library(stringr)
+library(dplyr)
+library(kableExtra)
+```
+
+
+## Phytophthora~Host interactions in the UK for key host species
+
+
+Includes unspecified phyto
+
+
+<br>
+
+
+```{r host_data, include=FALSE}
+
+
+species_UK <- read.csv("data/uk_sp_key_host_phyto.csv", stringsAsFactors = FALSE)
+
+species_Eng <- read.csv("data/eng_sp_key_host_phyto.csv", stringsAsFactors = FALSE)
+
+species_Wal <- read.csv("data/wal_sp_key_host_phyto.csv", stringsAsFactors = FALSE)
+
+species_Scot <- read.csv("data/scot_sp_key_host_phyto.csv", stringsAsFactors = FALSE)
+
+species_N.I <- read.csv("data/ni_sp_key_host_phyto.csv", stringsAsFactors = FALSE)
+
+
+
+
+genus_UK <- read.csv("data/uk_gen_key_host_phyto.csv", stringsAsFactors = FALSE)
+
+genus_Eng <- read.csv("data/eng_gen_key_host_phyto.csv", stringsAsFactors = FALSE)
+
+genus_Wal <- read.csv("data/wal_gen_key_host_phyto.csv", stringsAsFactors = FALSE)
+
+genus_Scot <- read.csv("data/scot_gen_key_host_phyto.csv", stringsAsFactors = FALSE)
+
+genus_N.I <- read.csv("data/ni_gen_key_host_phyto.csv", stringsAsFactors = FALSE)
+
+
+
+```
+
+  
+
+```{r}
+library(DT)
+
+species_uk_dt <- datatable(species_UK,
+                             rownames = FALSE,
+                             filter = 'top')
+
+species_eng_dt <- datatable(species_Eng,
+                             rownames = FALSE,
+                             filter = 'top')
+
+species_wal_dt <- datatable(species_Wal,
+                             rownames = FALSE,
+                             filter = 'top')
+
+species_scot_dt <- datatable(species_Scot,
+                             rownames = FALSE,
+                             filter = 'top')
+
+species_n.i_dt <- datatable(species_N.I,
+                             rownames = FALSE,
+                             filter = 'top')
+
+genus_uk_dt <- datatable(genus_UK,
+                             rownames = FALSE,
+                             filter = 'top')
+
+genus_eng_dt <- datatable(genus_Eng,
+                             rownames = FALSE,
+                             filter = 'top')
+
+genus_wal_dt <- datatable(genus_Wal,
+                             rownames = FALSE,
+                             filter = 'top')
+
+genus_scot_dt <- datatable(genus_Scot,
+                             rownames = FALSE,
+                             filter = 'top')
+
+genus_n.i_dt <- datatable(genus_N.I,
+                             rownames = FALSE,
+                             filter = 'top')
+
+```
+
+## {.tabset}
+
+### Species{.tabset .col-leftmid}
+#### Eng
+```{r ,echo = FALSE}
+species_eng_dt
+```
+#### Scot
+```{r ,echo = FALSE}
+species_scot_dt
+```
+#### Wal
+```{r ,echo = FALSE}
+species_wal_dt
+```
+#### N.I
+```{r ,echo = FALSE}
+species_n.i_dt
+```
+#### UK 
+```{r ,echo = FALSE}
+species_uk_dt   
+```
+##### {-}
+
+### {-}
+
+### Genus{.tabset .col-leftmid}
+#### Eng
+```{r ,echo = FALSE}
+genus_eng_dt
+```
+#### Scot
+```{r ,echo = FALSE}
+genus_scot_dt
+```
+#### Wal
+```{r ,echo = FALSE}
+genus_wal_dt
+```
+#### N.I
+```{r ,echo = FALSE}
+genus_n.i_dt
+```
+#### UK 
+```{r ,echo = FALSE}
+genus_uk_dt   
+```
+
+##### {-}
+
+### {-}
+
+## {-}
+
+
+
+
+<br>
+
+

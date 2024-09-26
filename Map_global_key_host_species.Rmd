@@ -96,19 +96,24 @@ world_list <- lapply(filepaths, st_read)
    label = ~LEVEL1_NAM)
     
 ```
-### WGSRPD Level 4
+
+## {.tabset}
+
+### All Key Species{.tabset .col-leftmid}
+
+#### WGSRPD Level 4
 ```{r, echo = FALSE}
       plot_list[[1]]
 ```
-### WGSRPD Level 3
+#### WGSRPD Level 3
 ```{r, echo = FALSE}
       plot_list[[2]]
 ```
-### WGSRPD Level 2
+#### WGSRPD Level 2
 ```{r, echo = FALSE}
       plot_list[[3]]
 ```
-### WGSRPD Level 1
+#### WGSRPD Level 1
 ```{r, echo = FALSE}
       plot_list[[4]]
 ```

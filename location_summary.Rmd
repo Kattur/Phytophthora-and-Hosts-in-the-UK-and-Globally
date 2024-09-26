@@ -20,7 +20,7 @@ library(kableExtra)
 
 ## Location of Phytophthora~host interactions
 
-Here we provide tables showing the locations of Phytophthora~host interactions currently listed within our database, along with the pertinent number of records.
+Here we provide tables showing the locations of Phytophthora~host interactions currently listed within our database, along with the pertinent number of records. Only interactions for key Phytophthora species are shown.
 
 Separate sets of tables are provided for records from Scotland only, records from the UK (including Scotland), and global (excluding UK) records. 
 
