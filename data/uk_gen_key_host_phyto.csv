@@ -6,7 +6,7 @@
 "Alnus","P. siskiyouensis",0,0,0,0,0,0,0,0,0,0,14,10,0,0,0
 "Alnus","P. syringae",0,0,1,0,0,0,0,0,0,0,3,0,1,0,0
 "Alnus","P. uniformis",1,0,0,1,0,0,0,0,0,0,2,1,1,0,0
-"Alnus","Unspecified species",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Alnus","Unspecified species",0,1,0,1,0,0,0,0,0,0,2,1,1,0,0
 "Juniperus","P. × cambivora",0,1,0,0,0,0,0,0,0,0,1,1,0,0,0
 "Juniperus","P. austrocedri",107,42,3,3,311,10,0,0,5,0,526,162,9,331,0
 "Juniperus","P. cactorum",2,0,0,0,0,0,0,0,0,0,2,2,0,0,0
@@ -30,19 +30,19 @@
 "Juniperus","P. psychrophila",0,1,0,0,0,0,0,0,0,0,1,1,0,0,0
 "Juniperus","P. quercina",1,0,0,0,0,0,0,0,0,0,1,1,0,0,0
 "Juniperus","P. syringae",0,3,0,0,0,5,0,0,0,0,8,3,0,5,0
-"Juniperus","Unspecified species",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Juniperus","Unspecified species",27,29,0,3,0,24,0,0,0,0,86,59,3,24,0
 "Larix","P. cactorum",0,0,0,0,0,0,0,0,0,0,4,2,0,0,0
 "Larix","P. hedraiandra",0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
 "Larix","P. plurivora",1,0,0,0,0,0,0,0,0,0,1,1,0,0,0
 "Larix","P. pseudosyringae",0,0,0,0,3,0,0,0,0,0,3,0,0,3,0
 "Larix","P. ramorum",860,0,1,0,3186,0,0,0,0,0,4061,862,1,3188,4
-"Larix","Unspecified species",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Larix","Unspecified species",1,0,8,0,0,1,0,0,0,0,11,2,8,1,0
 "Nothofagus","P. × cambivora",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 "Nothofagus","P. plurivora",1,0,0,0,0,0,0,0,0,0,1,1,0,0,0
 "Nothofagus","P. pseudosyringae",0,0,0,0,2,0,0,0,1,0,25,2,0,2,0
 "Nothofagus","P. ramorum",1,0,0,0,0,0,0,0,0,0,5,2,0,1,0
 "Nothofagus","P. syringae",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-"Nothofagus","Unspecified species",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nothofagus","Unspecified species",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 "Pinus","P. × cambivora",0,1,0,0,0,1,0,0,0,0,2,1,0,1,0
 "Pinus","P. cactorum",0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
 "Pinus","P. chlamydospora",1,1,0,0,0,0,0,0,0,0,2,2,0,0,0
@@ -62,12 +62,12 @@
 "Pinus","P. ramorum",0,1,0,0,0,0,0,0,0,0,1,1,0,0,0
 "Pinus","P. syringae",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
 "Pinus","P. uniformis",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
-"Pinus","Unspecified species",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pinus","Unspecified species",0,19,0,7,0,4,0,0,0,0,30,19,7,4,0
 "Populus","P. cinnamomi",0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
 "Populus","P. idaei",0,0,0,0,0,2,0,0,0,0,2,0,0,2,0
 "Populus","P. lacustris",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
 "Populus","P. megasperma",0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
-"Populus","Unspecified species",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Populus","Unspecified species",0,0,0,0,0,2,0,0,0,0,2,0,0,2,0
 "Pseudotsuga","P. bilorbang",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
 "Pseudotsuga","P. cinnamomi",1,0,0,0,0,0,0,0,0,0,1,1,0,0,0
 "Pseudotsuga","P. citricola",0,0,0,1,0,2,0,0,0,0,3,0,1,2,0
@@ -86,7 +86,7 @@
 "Pseudotsuga","P. pseudotsugae",0,1,0,0,0,4,0,0,0,0,5,1,0,4,0
 "Pseudotsuga","P. syringae",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
 "Pseudotsuga","P. uliginosa",0,0,0,0,0,2,0,0,0,0,2,0,0,2,0
-"Pseudotsuga","Unspecified species",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Pseudotsuga","Unspecified species",0,4,0,10,0,17,0,0,0,0,31,4,10,17,0
 "Quercus","P. × cambivora",0,3,0,0,0,0,0,0,0,0,7,5,0,0,0
 "Quercus","P. cactorum",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
 "Quercus","P. castanetorum",0,3,0,1,0,5,0,0,0,0,9,3,1,5,0
@@ -106,7 +106,7 @@
 "Quercus","P. quercina",1,0,0,0,0,0,0,0,0,0,4,1,0,1,0
 "Quercus","P. ramorum",37,20,6,0,0,0,0,0,0,0,80,60,6,0,0
 "Quercus","P. syringae",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
-"Quercus","Unspecified species",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Quercus","Unspecified species",1,7,0,2,0,15,0,0,0,0,25,8,2,15,0
 "Rhododendron","P. × cambivora",1,2,0,0,0,3,0,0,0,1,7,3,0,3,0
 "Rhododendron","P. cactorum",24,3,8,0,0,0,0,0,1,0,42,30,8,0,0
 "Rhododendron","P. chlamydospora",2,0,0,0,0,0,0,0,0,0,2,2,0,0,0
@@ -133,7 +133,7 @@
 "Rhododendron","P. rubi",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
 "Rhododendron","P. syringae",30,19,1,0,2,3,0,0,0,1,67,52,1,6,0
 "Rhododendron","P. uniformis",0,0,0,0,0,2,0,0,0,1,3,0,0,2,0
-"Rhododendron","Unspecified species",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Rhododendron","Unspecified species",644,236,155,30,0,9,0,0,3,3,1137,930,187,12,0
 "Tsuga","P. × cambivora",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
 "Tsuga","P. cinnamomi",0,0,0,0,0,2,0,0,0,0,2,0,0,2,0
 "Tsuga","P. cryptogea",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
@@ -141,7 +141,7 @@
 "Tsuga","P. pseudocryptogea",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
 "Tsuga","P. ramorum",0,0,0,0,10,0,0,0,0,0,10,0,0,10,0
 "Tsuga","P. uniformis",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
-"Tsuga","Unspecified species",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Tsuga","Unspecified species",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
 "Vaccinium","P. cactorum",1,0,0,0,0,0,0,0,0,0,2,2,0,0,0
 "Vaccinium","P. chlamydospora",0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
 "Vaccinium","P. cinnamomi",1,4,0,0,0,1,0,0,0,0,6,5,0,1,0
@@ -159,4 +159,4 @@
 "Vaccinium","P. rubi",0,1,0,0,0,0,0,0,0,0,1,1,0,0,0
 "Vaccinium","P. sojae",0,1,0,0,0,0,0,0,0,0,1,1,0,0,0
 "Vaccinium","P. syringae",0,1,0,0,0,0,0,0,0,0,1,1,0,0,0
-"Vaccinium","Unspecified species",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Vaccinium","Unspecified species",34,11,17,0,0,0,0,0,1,0,67,45,17,2,0
