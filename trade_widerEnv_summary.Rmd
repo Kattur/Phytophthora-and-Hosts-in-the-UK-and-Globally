@@ -36,23 +36,23 @@ library(kableExtra)
 ```{r host_data}
 
 
-glob_species <- read.csv("data/tr_wd_glob_species_rev1.csv", stringsAsFactors = FALSE)
+glob_species <- read.csv("data/tr_wd_glob_species.csv", stringsAsFactors = FALSE)
 
-glob_genus <- read.csv("data/tr_wd_glob_genus_rev1.csv", stringsAsFactors = FALSE)
+glob_genus <- read.csv("data/tr_wd_glob_genus.csv", stringsAsFactors = FALSE)
 
-#glob_family <- read.csv("data/tr_wd_glob_family_rev1.csv", stringsAsFactors = FALSE)
+#glob_family <- read.csv("data/tr_wd_glob_family.csv", stringsAsFactors = FALSE)
 
-uk_species <- read.csv("data/tr_wd_uk_species_rev1.csv", stringsAsFactors = FALSE)
+uk_species <- read.csv("data/tr_wd_uk_species.csv", stringsAsFactors = FALSE)
 
-uk_genus <- read.csv("data/tr_wd_uk_genus_rev1.csv", stringsAsFactors = FALSE)
+uk_genus <- read.csv("data/tr_wd_uk_genus.csv", stringsAsFactors = FALSE)
 
-#uk_family <- read.csv("data/tr_wd_uk_family_rev1.csv", stringsAsFactors = FALSE)
+#uk_family <- read.csv("data/tr_wd_uk_family.csv", stringsAsFactors = FALSE)
 
-scot_species <- read.csv("data/tr_wd_scot_species_rev1.csv", stringsAsFactors = FALSE)
+scot_species <- read.csv("data/tr_wd_scot_species.csv", stringsAsFactors = FALSE)
 
-scot_genus <- read.csv("data/tr_wd_scot_genus_rev1.csv", stringsAsFactors = FALSE)
+scot_genus <- read.csv("data/tr_wd_scot_genus.csv", stringsAsFactors = FALSE)
 
-#scot_family <- read.csv("data/tr_wd_scot_family_rev1.csv", stringsAsFactors = FALSE)
+#scot_family <- read.csv("data/tr_wd_scot_family.csv", stringsAsFactors = FALSE)
 
 
 ```

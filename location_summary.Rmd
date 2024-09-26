@@ -73,7 +73,7 @@ As with 'United Kingdom', there are some instances where other countries do not 
 
 ```{r, echo=FALSE, warning=FALSE}
 
-ru_num <- read.csv("data/ru_number_rev1.csv", stringsAsFactors = FALSE)
+ru_num <- read.csv("data/ru_number.csv", stringsAsFactors = FALSE)
 ru_num <- nrow(ru_num)
 
 glob_species_1 <- read.csv("data/countries_WGSRPD.csv", stringsAsFactors = FALSE)
@@ -100,29 +100,29 @@ Whilst significant effort has been made to correctly allocate WGSRPD codes to th
 ```{r host_data, include=FALSE}
 
 
-glob_species_1 <- read.csv("data/locat_glob_species_level_1_rev1.csv", stringsAsFactors = FALSE)
+glob_species_1 <- read.csv("data/locat_glob_species_level_1.csv", stringsAsFactors = FALSE)
 
-glob_species_2 <- read.csv("data/locat_glob_species_level_2_rev1.csv", stringsAsFactors = FALSE)
+glob_species_2 <- read.csv("data/locat_glob_species_level_2.csv", stringsAsFactors = FALSE)
 
-glob_species_3 <- read.csv("data/locat_glob_species_level_3_rev1.csv", stringsAsFactors = FALSE)
+glob_species_3 <- read.csv("data/locat_glob_species_level_3.csv", stringsAsFactors = FALSE)
 
-glob_species_4 <- read.csv("data/locat_glob_species_level_4_rev1.csv", stringsAsFactors = FALSE)
+glob_species_4 <- read.csv("data/locat_glob_species_level_4.csv", stringsAsFactors = FALSE)
 
-glob_genus_1 <- read.csv("data/locat_glob_genus_level_1_rev1.csv", stringsAsFactors = FALSE)
+glob_genus_1 <- read.csv("data/locat_glob_genus_level_1.csv", stringsAsFactors = FALSE)
 
-glob_genus_2 <- read.csv("data/locat_glob_genus_level_2_rev1.csv", stringsAsFactors = FALSE)
+glob_genus_2 <- read.csv("data/locat_glob_genus_level_2.csv", stringsAsFactors = FALSE)
 
-glob_genus_3 <- read.csv("data/locat_glob_genus_level_3_rev1.csv", stringsAsFactors = FALSE)
+glob_genus_3 <- read.csv("data/locat_glob_genus_level_3.csv", stringsAsFactors = FALSE)
 
-glob_genus_4 <- read.csv("data/locat_glob_genus_level_4_rev1.csv", stringsAsFactors = FALSE)
+glob_genus_4 <- read.csv("data/locat_glob_genus_level_4.csv", stringsAsFactors = FALSE)
 
-uk_species <- read.csv("data/locat_uk_species_rev1.csv", stringsAsFactors = FALSE)
+uk_species <- read.csv("data/locat_uk_species.csv", stringsAsFactors = FALSE)
 
-uk_genus <- read.csv("data/locat_uk_genus_rev1.csv", stringsAsFactors = FALSE)
+uk_genus <- read.csv("data/locat_uk_genus.csv", stringsAsFactors = FALSE)
 
-scot_species <- read.csv("data/locat_scot_species_rev1.csv", stringsAsFactors = FALSE)
+scot_species <- read.csv("data/locat_scot_species.csv", stringsAsFactors = FALSE)
 
-scot_genus <- read.csv("data/locat_scot_genus_rev1.csv", stringsAsFactors = FALSE)
+scot_genus <- read.csv("data/locat_scot_genus.csv", stringsAsFactors = FALSE)
 
 ```
 
