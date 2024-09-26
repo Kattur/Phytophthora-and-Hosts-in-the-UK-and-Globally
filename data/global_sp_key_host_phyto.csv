@@ -1,479 +1,437 @@
-"Key_Species","Phytophthora","trade_widerEnvironment","Level.4","Level.3","Level.2","Level.1","UK","Scot","Eng","Wales","N.I"
-"Vaccinium myrtillus","P. ramorum",NA,"Norway","Norway","Northern Europe","Europe","Yes","Yes","Yes","Yes",NA
-"Vaccinium myrtillus","P. ramorum","widerEnvironment","Ireland","Ireland","Northern Europe","Europe","Yes","Yes","Yes","Yes",NA
-"Vaccinium myrtillus","P. ramorum",NA,"Ireland","Ireland","Northern Europe","Europe","Yes","Yes","Yes","Yes",NA
-"Tsuga heterophylla","P. cinnamomi",NA,NA,NA,"New Zealand","Australasia","Yes","Yes",NA,NA,NA
-"Quercus robur","Unspecified species",NA,"France","France","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","Unspecified species",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","Unspecified species",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. uliginosa",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. uliginosa",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. syringae",NA,"Austria","Austria","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. syringae","widerEnvironment","Croatia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. rosacearum",NA,"Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. rosacearum","Trade","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. rosacearum",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. ramorum",NA,"Ireland","Ireland","Northern Europe","Europe","Yes",NA,"Yes","Yes",NA
-"Quercus robur","P. quercina",NA,"France","France","Southwestern Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus robur","P. quercina",NA,"Turkey","Turkey","Western Asia","Asia-Temperate","Yes","Yes",NA,NA,NA
-"Quercus robur","P. quercina",NA,NA,NA,NA,"Europe","Yes","Yes",NA,NA,NA
-"Quercus robur","P. quercina",NA,NA,NA,NA,NA,"Yes","Yes",NA,NA,NA
-"Quercus robur","P. quercina","widerEnvironment","Sweden","Sweden","Northern Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus robur","P. quercina",NA,"Serbia","Yugoslavia","Southeastern Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus robur","P. quercina",NA,"Germany","Germany","Middle Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus robur","P. quercina",NA,"Italy","Italy","Southeastern Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus robur","P. quercina",NA,"Austria","Austria","Middle Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus robur","P. quercina",NA,"Poland","Poland","Middle Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus robur","P. psychrophila",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. pseudosyringae",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. pseudocryptogea",NA,"Turkey","Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Quercus robur","P. polonica",NA,"Serbia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. polonica",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. polonica","widerEnvironment","Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. plurivora",NA,"Austria","Austria","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora",NA,"Hungary","Hungary","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora","widerEnvironment","Croatia","Yugoslavia","Southeastern Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora",NA,"Germany","Germany","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora","Trade","Czech Republic","Czechoslovakia","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora","widerEnvironment","Poland","Poland","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora",NA,"Belgium","Belgium","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora",NA,"Luxembourg","Belgium","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora",NA,"Turkey","Turkey","Western Asia","Asia-Temperate","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora",NA,"Italy","Italy","Southeastern Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora",NA,"Czech Republic","Czechoslovakia","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora",NA,"Switzerland","Switzerland","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora",NA,"Ukraine","Ukraine","Eastern Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora","widerEnvironment","Sweden","Sweden","Northern Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora",NA,"France","France","Southwestern Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora",NA,"Poland","Poland","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. plurivora",NA,"Serbia","Yugoslavia","Southeastern Europe","Europe","Yes",NA,NA,NA,NA
-"Quercus robur","P. pini",NA,"Serbia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. multivora",NA,"Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. multivora","Trade","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. multivora",NA,NA,NA,"Australia","Australasia",NA,NA,NA,NA,NA
-"Quercus robur","P. multivora","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. megasperma","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. lacustris",NA,"Serbia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. hedraiandra",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. gonapodyides",NA,NA,NA,"New Zealand","Australasia",NA,NA,NA,NA,NA
-"Quercus robur","P. gonapodyides",NA,"France","France","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. gonapodyides",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. gonapodyides",NA,"Serbia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. gonapodyides",NA,"Denmark","Denmark","Northern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. gonapodyides",NA,"Turkey","Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Quercus robur","P. gonapodyides",NA,"Austria","Austria","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. gallica","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. gallica",NA,"France","France","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. europaea",NA,"Austria","Austria","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. europaea",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. europaea",NA,"France","France","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. europaea",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. cryptogea",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. citricola",NA,NA,NA,"New Zealand","Australasia",NA,NA,NA,NA,NA
-"Quercus robur","P. citricola","widerEnvironment","Northwest European Russia","Northwest European Russia","Eastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. citricola",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. citricola",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. citricola",NA,"Austria","Austria","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. cinnamomi",NA,NA,NA,"New Zealand","Australasia","Yes",NA,"Yes",NA,NA
-"Quercus robur","P. cinnamomi",NA,NA,NA,NA,"Northern America","Yes",NA,"Yes",NA,NA
-"Quercus robur","P. cinnamomi",NA,"Portugal","Portugal","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus robur","P. cinnamomi",NA,"France","France","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus robur","P. cinnamomi","widerEnvironment","France","France","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus robur","P. cactorum",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. cactorum",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. bilorbang","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus robur","P. × cambivora","widerEnvironment","Poland","Poland","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus robur","P. × cambivora","widerEnvironment","France","France","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus robur","P. × cambivora","widerEnvironment","Croatia","Yugoslavia","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus robur","P. × cambivora",NA,"Poland","Poland","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus robur","P. × cambivora",NA,"Germany","Germany","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus petraea","Unspecified species",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","Unspecified species",NA,"Turkey","Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Quercus petraea","P. uliginosa",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. syringae",NA,"Austria","Austria","Middle Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus petraea","P. quercina",NA,"Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. quercina",NA,"Slovakia","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. quercina",NA,"Turkey","Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Quercus petraea","P. quercina",NA,"Serbia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. quercina",NA,"Austria","Austria","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. quercina",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. plurivora","widerEnvironment","Hungary","Hungary","Middle Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus petraea","P. plurivora",NA,"Slovenia","Yugoslavia","Southeastern Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus petraea","P. plurivora",NA,"Germany","Germany","Middle Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus petraea","P. plurivora",NA,"Hungary","Hungary","Middle Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus petraea","P. plurivora",NA,"France","France","Southwestern Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus petraea","P. plurivora",NA,"Slovakia","Czechoslovakia","Middle Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus petraea","P. plurivora",NA,"Italy","Italy","Southeastern Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus petraea","P. plurivora",NA,"Serbia","Yugoslavia","Southeastern Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus petraea","P. multivora","widerEnvironment","Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. multivora",NA,"Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. megasperma",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. hedraiandra",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. gonapodyides","widerEnvironment","Hungary","Hungary","Middle Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus petraea","P. gonapodyides",NA,"Hungary","Hungary","Middle Europe","Europe","Yes","Yes",NA,NA,NA
-"Quercus petraea","P. cryptogea",NA,"Serbia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. citrophthora",NA,"Serbia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. citricola",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. citricola",NA,"Slovenia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. citricola",NA,"Turkey","Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Quercus petraea","P. citricola",NA,"Austria","Austria","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. cinnamomi",NA,"Turkey","Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Quercus petraea","P. cactorum",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. × cambivora",NA,"Slovakia","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. × cambivora",NA,"France","France","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus petraea","P. × cambivora",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. tyrrhenica",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. tyrrhenica",NA,"Sicilia","Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. syringae",NA,"Spain","Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. quercina",NA,"Sicilia","Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. quercina",NA,"Portugal","Portugal","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. quercina",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. quercina",NA,"Spain","Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. psychrophila",NA,"Portugal","Portugal","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus ilex","P. psychrophila",NA,"France","France","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus ilex","P. psychrophila",NA,"Spain","Spain","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus ilex","P. psychrophila",NA,"Italy","Italy","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus ilex","P. pseudosyringae",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. pseudocryptogea",NA,"Sicilia","Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. pseudocryptogea",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. pseudocryptogea",NA,"Portugal","Portugal","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. pseudocryptogea",NA,"Spain","Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. plurivora",NA,"Sicilia","Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. multivora",NA,"Sicilia","Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. hedraiandra",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. gonapodyides",NA,"Spain","Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. gonapodyides",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. gonapodyides",NA,"Sicilia","Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. cryptogea",NA,"Spain","Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. cryptogea",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. crassamura",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. citricola",NA,"Spain","Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. citricola",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. cinnamomi",NA,"France","France","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. cinnamomi",NA,"Portugal","Portugal","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. cinnamomi",NA,"Spain","Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. cinnamomi",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. cactorum",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. asparagi",NA,"Sicilia","Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus ilex","P. × cambivora",NA,"Sicilia","Sicilia","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus cerris","Unspecified species",NA,"Turkey","Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Quercus cerris","P. syringae",NA,"Austria","Austria","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus cerris","P. syringae",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus cerris","P. quercina",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus cerris","P. quercina",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus cerris","P. plurivora",NA,"Germany","Germany","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus cerris","P. plurivora",NA,"Italy","Italy","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus cerris","P. plurivora",NA,"Turkey","Turkey","Western Asia","Asia-Temperate","Yes",NA,"Yes",NA,NA
-"Quercus cerris","P. multivora","widerEnvironment","Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus cerris","P. multivora",NA,"Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus cerris","P. megasperma",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus cerris","P. hedraiandra",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus cerris","P. gonapodyides",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus cerris","P. cryptogea",NA,"Italy","Italy","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus cerris","P. cryptogea",NA,"Turkey","Turkey","Western Asia","Asia-Temperate","Yes",NA,"Yes",NA,NA
-"Quercus cerris","P. citricola",NA,"Turkey","Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Quercus cerris","P. citricola",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus cerris","P. citricola",NA,"Austria","Austria","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Quercus cerris","P. cinnamomi",NA,NA,NA,"New Zealand","Australasia","Yes",NA,"Yes",NA,NA
-"Quercus cerris","P. cinnamomi","Trade","Western Cape Province","Cape Provinces","Southern Africa","Africa","Yes",NA,"Yes",NA,NA
-"Quercus cerris","P. cinnamomi",NA,"Italy","Italy","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Quercus cerris","P. cinnamomi",NA,NA,NA,"Southern Africa","Africa","Yes",NA,"Yes",NA,NA
-"Quercus cerris","P. cactorum",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus cerris","P. × cambivora",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Quercus cerris","P. × cambivora",NA,"Sicilia","Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","Unspecified species",NA,"British Columbia","British Columbia","Western Canada","Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","Unspecified species",NA,"California","California","Southwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","Unspecified species",NA,NA,"Hawaii","North-Central Pacific","Pacific",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","Unspecified species",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. ramorum",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. ramorum","widerEnvironment","Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. ramorum",NA,"California","California","Southwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. ramorum",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. pseudotsugae",NA,"Washington","Washington","Northwestern U.S.A.","Northern America","Yes","Yes","Yes",NA,NA
-"Pseudotsuga menziesii","P. pseudotsugae",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America","Yes","Yes","Yes",NA,NA
-"Pseudotsuga menziesii","P. pseudotsugae",NA,NA,NA,NA,"Northern America","Yes","Yes","Yes",NA,NA
-"Pseudotsuga menziesii","P. pluvialis",NA,NA,NA,NA,"Northern America","Yes","Yes",NA,NA,NA
-"Pseudotsuga menziesii","P. pluvialis",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America","Yes","Yes",NA,NA,NA
-"Pseudotsuga menziesii","P. pluvialis",NA,NA,NA,"New Zealand","Australasia","Yes","Yes",NA,NA,NA
-"Pseudotsuga menziesii","P. pluvialis","widerEnvironment","Oregon","Oregon","Northwestern U.S.A.","Northern America","Yes","Yes",NA,NA,NA
-"Pseudotsuga menziesii","P. plurivora",NA,"Germany","Germany","Middle Europe","Europe","Yes","Yes","Yes",NA,NA
-"Pseudotsuga menziesii","P. megasperma",NA,NA,NA,"New Zealand","Australasia","Yes",NA,"Yes","Yes",NA
-"Pseudotsuga menziesii","P. megasperma",NA,NA,NA,NA,"Northern America","Yes",NA,"Yes","Yes",NA
-"Pseudotsuga menziesii","P. megasperma",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America","Yes",NA,"Yes","Yes",NA
-"Pseudotsuga menziesii","P. megasperma",NA,"Washington","Washington","Northwestern U.S.A.","Northern America","Yes",NA,"Yes","Yes",NA
-"Pseudotsuga menziesii","P. hedraiandra",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. hedraiandra",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. gonapodyides",NA,"South Korea","Korea","Eastern Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. drechsleri",NA,"Colombia","Colombia","Western South America","Southern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. drechsleri",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. drechsleri",NA,"British Columbia","British Columbia","Western Canada","Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. drechsleri",NA,"Washington","Washington","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. drechsleri",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. cryptogea",NA,NA,NA,"New Zealand","Australasia","Yes","Yes","Yes",NA,NA
-"Pseudotsuga menziesii","P. cryptogea",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America","Yes","Yes","Yes",NA,NA
-"Pseudotsuga menziesii","P. cryptogea",NA,"Washington","Washington","Northwestern U.S.A.","Northern America","Yes","Yes","Yes",NA,NA
-"Pseudotsuga menziesii","P. cryptogea",NA,NA,NA,NA,"Northern America","Yes","Yes","Yes",NA,NA
-"Pseudotsuga menziesii","P. citricola",NA,NA,NA,"New Zealand","Australasia","Yes","Yes",NA,NA,NA
-"Pseudotsuga menziesii","P. citricola",NA,NA,NA,NA,"Northern America","Yes","Yes",NA,NA,NA
-"Pseudotsuga menziesii","P. citricola",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America","Yes","Yes",NA,NA,NA
-"Pseudotsuga menziesii","P. cinnamomi",NA,NA,NA,NA,"Northern America","Yes",NA,"Yes",NA,NA
-"Pseudotsuga menziesii","P. cinnamomi",NA,"North Carolina","North Carolina","Southeastern U.S.A.","Northern America","Yes",NA,"Yes",NA,NA
-"Pseudotsuga menziesii","P. cinnamomi",NA,"California","California","Southwestern U.S.A.","Northern America","Yes",NA,"Yes",NA,NA
-"Pseudotsuga menziesii","P. cinnamomi",NA,"Spain","Spain","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Pseudotsuga menziesii","P. cinnamomi",NA,NA,NA,"New Zealand","Australasia","Yes",NA,"Yes",NA,NA
-"Pseudotsuga menziesii","P. cinnamomi",NA,"Washington","Washington","Northwestern U.S.A.","Northern America","Yes",NA,"Yes",NA,NA
-"Pseudotsuga menziesii","P. cinnamomi",NA,NA,NA,"Australia","Australasia","Yes",NA,"Yes",NA,NA
-"Pseudotsuga menziesii","P. cinnamomi",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America","Yes",NA,"Yes",NA,NA
-"Pseudotsuga menziesii","P. chlamydospora",NA,"Colombia","Colombia","Western South America","Southern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. chlamydospora",NA,"British Columbia","British Columbia","Western Canada","Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. cactorum",NA,"Michigan","Michigan","Northeastern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. cactorum",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. cactorum",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. cactorum",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. cactorum",NA,"Washington","Washington","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Pseudotsuga menziesii","P. × cambivora",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Populus tremula","P. lacustris","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe","Yes","Yes",NA,NA,NA
-"Populus tremula","P. bilorbang","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Populus tremula","P. 'raspberry'","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Pinus sylvestris","P. plurivora",NA,"Poland","Poland","Middle Europe","Europe","Yes","Yes","Yes",NA,NA
-"Pinus sylvestris","P. plurivora",NA,"Germany","Germany","Middle Europe","Europe","Yes","Yes","Yes",NA,NA
-"Pinus sylvestris","P. hedraiandra",NA,"Bulgaria","Bulgaria","Southeastern Europe","Europe","Yes",NA,NA,NA,NA
-"Pinus sylvestris","P. hedraiandra",NA,"Germany","Germany","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Pinus sylvestris","P. hedraiandra",NA,"Czech Republic","Czechoslovakia","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Pinus sylvestris","P. cryptogea",NA,"Germany","Germany","Middle Europe","Europe","Yes","Yes","Yes",NA,NA
-"Pinus sylvestris","P. cinnamomi","widerEnvironment","France","France","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Pinus sylvestris","P. cinnamomi",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Pinus sylvestris","P. cinnamomi",NA,"Virginia","Virginia","Southeastern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Pinus sylvestris","P. cinnamomi",NA,"Maryland","Maryland","Southeastern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Pinus sylvestris","P. cinnamomi",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Pinus sylvestris","P. chlamydospora","Trade","Croatia","Yugoslavia","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Pinus sylvestris","P. cactorum",NA,"Czech Republic","Czechoslovakia","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Pinus sylvestris","P. cactorum",NA,"Minnesota","Minnesota","North-Central U.S.A.","Northern America","Yes",NA,NA,NA,NA
-"Pinus sylvestris","P. cactorum",NA,NA,NA,NA,"Northern America","Yes",NA,NA,NA,NA
-"Pinus sylvestris","P. cactorum",NA,"Bulgaria","Bulgaria","Southeastern Europe","Europe","Yes",NA,NA,NA,NA
-"Pinus sylvestris","P. cactorum",NA,"Poland","Poland","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Pinus sylvestris","P. cactorum",NA,"Germany","Germany","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Pinus sylvestris","P. cactorum",NA,"Denmark","Denmark","Northern Europe","Europe","Yes",NA,NA,NA,NA
-"Pinus sylvestris","P. cactorum",NA,"Sweden","Sweden","Northern Europe","Europe","Yes",NA,NA,NA,NA
-"Pinus sylvestris","P. cactorum",NA,NA,"Czechoslovakia","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Pinus sylvestris","P. × cambivora",NA,"Germany","Germany","Middle Europe","Europe","Yes","Yes",NA,NA,NA
-"Larix decidua","P. cinnamomi",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Larix decidua","P. cinnamomi",NA,"Maryland","Maryland","Southeastern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Larix decidua","P. cinnamomi",NA,NA,NA,"New Zealand","Australasia",NA,NA,NA,NA,NA
-"Larix decidua","P. cactorum",NA,"Germany","Germany","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Larix decidua","P. cactorum",NA,"Netherlands","Netherlands","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Juniperus communis","P. lateralis",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Juniperus communis","P. lateralis",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Juniperus communis","P. heterospora",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Juniperus communis","P. hedraiandra",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Juniperus communis","P. cinnamomi",NA,NA,NA,"Australia","Australasia","Yes",NA,"Yes",NA,NA
-"Juniperus communis","P. cinnamomi",NA,NA,NA,"New Zealand","Australasia","Yes",NA,"Yes",NA,NA
-"Juniperus communis","P. cactorum",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Juniperus communis","P. austrocedri",NA,"Germany","Germany","Middle Europe","Europe","Yes","Yes","Yes","Yes",NA
-"Juniperus communis","P. × cambivora",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus rubra","Unspecified species",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. uniformis",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. uniformis","widerEnvironment","Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. uniformis",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. uniformis",NA,"Western Australia","Western Australia","Australia","Australasia",NA,NA,NA,NA,NA
-"Alnus rubra","P. siskiyouensis",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. siskiyouensis","widerEnvironment","Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. siskiyouensis",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. pseudosyringae","widerEnvironment","Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. parsiana",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. parsiana",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. occultans",NA,"Western Australia","Western Australia","Australia","Australasia",NA,NA,NA,NA,NA
-"Alnus rubra","P. lacustris","widerEnvironment","Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. hedraiandra",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. gregata",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. gregata","widerEnvironment","Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. gregata",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. gonapodyides",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. gonapodyides",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. gonapodyides","widerEnvironment","Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. gallica","widerEnvironment","Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. europaea",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. europaea",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. crassamura",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. crassamura",NA,"California","California","Southwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. chlamydospora","widerEnvironment","Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. cactorum","widerEnvironment","Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. cactorum",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. bilorbang","widerEnvironment","Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. × cambivora",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Alnus rubra","P. × cambivora",NA,"Oregon","Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus incana","Unspecified species",NA,"California","California","Southwestern U.S.A.","Northern America",NA,NA,NA,NA,NA
-"Alnus incana","P. uniformis",NA,"Alaska","Alaska","Subarctic America","Northern America",NA,NA,NA,NA,NA
-"Alnus incana","P. uniformis",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. uniformis","widerEnvironment","Sweden","Sweden","Northern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. uniformis","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. uniformis",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Alnus incana","P. uniformis",NA,"Belgium","Belgium","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. plurivora",NA,"Austria","Austria","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. plurivora",NA,"France","France","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. plurivora",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. plurivora",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. megasperma",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. hedraiandra",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. gonapodyides",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. gonapodyides",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. citricola",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. cactorum",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. cactorum",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. alni","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus incana","P. alni",NA,"Germany","Germany","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus incana","P. alni",NA,"Belgium","Belgium","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus incana","P. alni","widerEnvironment","Sweden","Sweden","Northern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus incana","P. acerina",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. × multiformis",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. × multiformis",NA,"France","France","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus incana","P. × cambivora",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","Unspecified species",NA,"Austria","Austria","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","Unspecified species",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","Unspecified species",NA,"Finland","Finland","Northern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","Unspecified species",NA,"Turkey","Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Alnus glutinosa","Unspecified species",NA,"Spain","Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","Unspecified species",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","Unspecified species",NA,"Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","Unspecified species",NA,"Netherlands","Netherlands","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis",NA,"Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis",NA,"Sweden","Sweden","Northern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis",NA,"Slovenia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis","Trade","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis","widerEnvironment","Croatia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis",NA,"Spain","Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis",NA,"Norway","Norway","Northern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis",NA,"Denmark","Denmark","Northern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis",NA,"Belgium","Belgium","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis",NA,"France","France","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis","widerEnvironment","Sweden","Sweden","Northern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. uniformis",NA,"Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. syringae",NA,"Germany","Germany","Middle Europe","Europe","Yes",NA,NA,NA,NA
-"Alnus glutinosa","P. siskiyouensis",NA,NA,NA,"Australia","Australasia",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. rosacearum","widerEnvironment","Croatia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. quercina",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. pseudosyringae",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. pseudosyringae",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. pseudocryptogea",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. polonica","widerEnvironment","Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. polonica",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. polonica","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. polonica","widerEnvironment","Croatia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. polonica",NA,"Ukraine","Ukraine","Eastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Sweden","Sweden","Northern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Czech Republic","Czechoslovakia","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora","widerEnvironment","Croatia","Yugoslavia","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Bulgaria","Bulgaria","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Romania","Romania","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Poland","Poland","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Denmark","Denmark","Northern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Austria","Austria","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Italy","Italy","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora","Trade","Czech Republic","Czechoslovakia","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Spain","Spain","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora","widerEnvironment","Hungary","Hungary","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"France","France","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Germany","Germany","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora","widerEnvironment","Slovakia","Czechoslovakia","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Netherlands","Netherlands","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora","widerEnvironment","Sweden","Sweden","Northern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Ukraine","Ukraine","Eastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Serbia","Yugoslavia","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Turkey","Turkey","Western Asia","Asia-Temperate","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. plurivora",NA,"Hungary","Hungary","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. pini",NA,"Turkey","Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. multivora","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. multivora",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Alnus glutinosa","P. megasperma",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. megasperma","Trade","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. megasperma",NA,"Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. megasperma","widerEnvironment","Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. lacustris",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. lacustris",NA,"Portugal","Portugal","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. lacustris",NA,"Ukraine","Ukraine","Eastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. lacustris",NA,"Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. lacustris",NA,"Ireland","Ireland","Northern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. lacustris","widerEnvironment","Slovakia","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. lacustris","widerEnvironment","Portugal","Portugal","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. lacustris",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. lacustris","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. lacustris",NA,"Turkey","Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. lacustris","widerEnvironment","Croatia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. lacustris","widerEnvironment","Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. lacustris",NA,"Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. inundata",NA,"Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. inundata","widerEnvironment","Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. honggalleglyana",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. hedraiandra",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. hedraiandra",NA,"Serbia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gregata","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gregata","widerEnvironment","Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gregata",NA,"Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gregata","widerEnvironment","Croatia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gonapodyides",NA,"Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gonapodyides","widerEnvironment","Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gonapodyides","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gonapodyides",NA,"Spain","Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gonapodyides","widerEnvironment","Croatia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gonapodyides",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gonapodyides",NA,"Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gonapodyides",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gonapodyides",NA,"Turkey","Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gallica","widerEnvironment","Croatia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gallica","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. gallica",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. cryptogea","Trade","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. citricola",NA,"Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. citricola",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. citricola",NA,"France","France","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. cinnamomi",NA,"Spain","Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. chlamydospora",NA,"Turkey","Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. cactorum",NA,"Turkey","Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. cactorum",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. cactorum",NA,"Poland","Poland","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. cactorum","widerEnvironment","Slovakia","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. bilorbang","widerEnvironment","Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. bilorbang","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. bilorbang","widerEnvironment","Slovakia","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. bilorbang",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. bilorbang",NA,"Ukraine","Ukraine","Eastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. alni",NA,"Italy","Italy","Southeastern Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni",NA,"Netherlands","Netherlands","Middle Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni","widerEnvironment","Illinois","Illinois","North-Central U.S.A.","Northern America","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni",NA,"Austria","Austria","Middle Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni",NA,"Belarus","Belarus","Eastern Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni",NA,"Croatia","Yugoslavia","Southeastern Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni","widerEnvironment","Portugal","Portugal","Southwestern Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni",NA,"Belgium","Belgium","Middle Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni","widerEnvironment","Germany","Germany","Middle Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni",NA,"France","France","Southwestern Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni","widerEnvironment","Croatia","Yugoslavia","Southeastern Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni",NA,"Czech Republic","Czechoslovakia","Middle Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni",NA,"Poland","Poland","Middle Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni","Trade","Czech Republic","Czechoslovakia","Middle Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni",NA,"Hungary","Hungary","Middle Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni",NA,"Spain","Spain","Southwestern Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni",NA,"Germany","Germany","Middle Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni","widerEnvironment","Sweden","Sweden","Northern Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni",NA,"Portugal","Portugal","Southwestern Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. alni","widerEnvironment","France","France","Southwestern Europe","Europe","Yes","Yes","Yes",NA,NA
-"Alnus glutinosa","P. acerina",NA,"Italy","Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. × multiformis",NA,"Spain","Spain","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. × multiformis",NA,"Croatia","Yugoslavia","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. × multiformis","widerEnvironment","Croatia","Yugoslavia","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. × multiformis","widerEnvironment","Hungary","Hungary","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. × multiformis",NA,"France","France","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. × multiformis",NA,"Netherlands","Netherlands","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. × multiformis",NA,"Belgium","Belgium","Middle Europe","Europe","Yes",NA,"Yes",NA,NA
-"Alnus glutinosa","P. × cambivora",NA,"Germany","Germany","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. × cambivora",NA,"Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. × cambivora",NA,"Spain","Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. 'walnut'","widerEnvironment","Croatia","Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. 'raspberry'","widerEnvironment","Czech Republic","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA
-"Alnus glutinosa","P. 'raspberry'","widerEnvironment","Hungary","Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA
+"Key_Species","Phytophthora","wEnv","Trade","Level.4","Level.3","Level.2","Level.1","UK","Scot","Eng","Wales","N.I"
+"Vaccinium myrtillus","P. ramorum",NA,NA,"Norway","Northern Europe","Europe","Yes","Yes","Yes","Yes",NA,1
+"Vaccinium myrtillus","P. ramorum","Yes",NA,"Ireland","Northern Europe","Europe","Yes","Yes","Yes","Yes",NA,1
+"Tsuga heterophylla","P. cinnamomi",NA,NA,NA,"New Zealand","Australasia","Yes","Yes",NA,NA,NA,1
+"Quercus robur","Unspecified species",NA,NA,"France","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","Unspecified species",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","Unspecified species",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. uliginosa",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. uliginosa",NA,NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. syringae",NA,NA,"Austria","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. syringae","Yes",NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,NA
+"Quercus robur","P. rosacearum",NA,"Yes","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. rosacearum",NA,NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. ramorum",NA,NA,"Ireland","Northern Europe","Europe","Yes",NA,"Yes","Yes",NA,1
+"Quercus robur","P. quercina",NA,NA,"France","Southwestern Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus robur","P. quercina",NA,NA,"Turkey","Western Asia","Asia-Temperate","Yes","Yes",NA,NA,NA,1
+"Quercus robur","P. quercina",NA,NA,NA,NA,"Europe","Yes","Yes",NA,NA,NA,1
+"Quercus robur","P. quercina",NA,NA,NA,NA,NA,"Yes","Yes",NA,NA,NA,1
+"Quercus robur","P. quercina","Yes",NA,"Sweden","Northern Europe","Europe","Yes","Yes",NA,NA,NA,NA
+"Quercus robur","P. quercina",NA,NA,"Yugoslavia","Southeastern Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus robur","P. quercina",NA,NA,"Germany","Middle Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus robur","P. quercina",NA,NA,"Italy","Southeastern Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus robur","P. quercina",NA,NA,"Austria","Middle Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus robur","P. quercina",NA,NA,"Poland","Middle Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus robur","P. psychrophila",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. pseudosyringae",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. pseudocryptogea",NA,NA,"Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Quercus robur","P. polonica",NA,NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. polonica","Yes",NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. plurivora",NA,NA,"Austria","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Quercus robur","P. plurivora",NA,NA,"Hungary","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Quercus robur","P. plurivora","Yes",NA,"Yugoslavia","Southeastern Europe","Europe","Yes",NA,NA,NA,NA,NA
+"Quercus robur","P. plurivora",NA,NA,"Germany","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Quercus robur","P. plurivora","Yes","Yes","Czechoslovakia","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Quercus robur","P. plurivora","Yes",NA,"Poland","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Quercus robur","P. plurivora",NA,NA,"Belgium","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Quercus robur","P. plurivora",NA,NA,"Belgium","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Quercus robur","P. plurivora",NA,NA,"Turkey","Western Asia","Asia-Temperate","Yes",NA,NA,NA,NA,1
+"Quercus robur","P. plurivora",NA,NA,"Italy","Southeastern Europe","Europe","Yes",NA,NA,NA,NA,1
+"Quercus robur","P. plurivora",NA,NA,"Switzerland","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Quercus robur","P. plurivora",NA,NA,"Ukraine","Eastern Europe","Europe","Yes",NA,NA,NA,NA,1
+"Quercus robur","P. plurivora","Yes",NA,"Sweden","Northern Europe","Europe","Yes",NA,NA,NA,NA,NA
+"Quercus robur","P. plurivora",NA,NA,"France","Southwestern Europe","Europe","Yes",NA,NA,NA,NA,1
+"Quercus robur","P. plurivora",NA,NA,"Yugoslavia","Southeastern Europe","Europe","Yes",NA,NA,NA,NA,1
+"Quercus robur","P. pini",NA,NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. multivora","Yes","Yes","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. multivora",NA,NA,NA,"Australia","Australasia",NA,NA,NA,NA,NA,1
+"Quercus robur","P. megasperma","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Quercus robur","P. lacustris",NA,NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. hedraiandra",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. gonapodyides",NA,NA,NA,"New Zealand","Australasia",NA,NA,NA,NA,NA,1
+"Quercus robur","P. gonapodyides",NA,NA,"France","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. gonapodyides",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. gonapodyides",NA,NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. gonapodyides",NA,NA,"Denmark","Northern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. gonapodyides",NA,NA,"Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Quercus robur","P. gonapodyides",NA,NA,"Austria","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. gallica","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Quercus robur","P. gallica",NA,NA,"France","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. europaea",NA,NA,"Austria","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. europaea",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. europaea",NA,NA,"France","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. europaea",NA,NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. cryptogea",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. citricola",NA,NA,NA,"New Zealand","Australasia",NA,NA,NA,NA,NA,1
+"Quercus robur","P. citricola","Yes",NA,"Northwest European Russia","Eastern Europe","Europe",NA,NA,NA,NA,NA,NA
+"Quercus robur","P. citricola",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. citricola",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. citricola",NA,NA,"Austria","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. cinnamomi",NA,NA,NA,"New Zealand","Australasia","Yes",NA,"Yes",NA,NA,1
+"Quercus robur","P. cinnamomi",NA,NA,NA,NA,"Northern America","Yes",NA,"Yes",NA,NA,1
+"Quercus robur","P. cinnamomi",NA,NA,"Portugal","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Quercus robur","P. cinnamomi","Yes",NA,"France","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Quercus robur","P. cactorum",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. cactorum",NA,NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus robur","P. bilorbang","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Quercus robur","P. × cambivora","Yes",NA,"Poland","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Quercus robur","P. × cambivora","Yes",NA,"France","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA,NA
+"Quercus robur","P. × cambivora","Yes",NA,"Yugoslavia","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA,NA
+"Quercus robur","P. × cambivora",NA,NA,"Germany","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Quercus petraea","Unspecified species",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","Unspecified species",NA,NA,"Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. uliginosa",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. syringae",NA,NA,"Austria","Middle Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus petraea","P. quercina",NA,NA,"Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. quercina",NA,NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. quercina",NA,NA,"Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. quercina",NA,NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. quercina",NA,NA,"Austria","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. quercina",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. plurivora","Yes",NA,"Hungary","Middle Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus petraea","P. plurivora",NA,NA,"Yugoslavia","Southeastern Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus petraea","P. plurivora",NA,NA,"Germany","Middle Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus petraea","P. plurivora",NA,NA,"France","Southwestern Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus petraea","P. plurivora",NA,NA,"Czechoslovakia","Middle Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus petraea","P. plurivora",NA,NA,"Italy","Southeastern Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus petraea","P. plurivora",NA,NA,"Yugoslavia","Southeastern Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus petraea","P. multivora","Yes",NA,"Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. megasperma",NA,NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. hedraiandra",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. gonapodyides","Yes",NA,"Hungary","Middle Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Quercus petraea","P. cryptogea",NA,NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. citrophthora",NA,NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. citricola",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. citricola",NA,NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. citricola",NA,NA,"Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. citricola",NA,NA,"Austria","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. cinnamomi",NA,NA,"Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. cactorum",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. × cambivora",NA,NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. × cambivora",NA,NA,"France","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus petraea","P. × cambivora",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. tyrrhenica",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. tyrrhenica",NA,NA,"Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. syringae",NA,NA,"Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. quercina",NA,NA,"Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. quercina",NA,NA,"Portugal","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. quercina",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. quercina",NA,NA,"Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. psychrophila",NA,NA,"Portugal","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Quercus ilex","P. psychrophila",NA,NA,"France","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Quercus ilex","P. psychrophila",NA,NA,"Spain","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Quercus ilex","P. psychrophila",NA,NA,"Italy","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Quercus ilex","P. pseudosyringae",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. pseudocryptogea",NA,NA,"Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. pseudocryptogea",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. pseudocryptogea",NA,NA,"Portugal","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. pseudocryptogea",NA,NA,"Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. plurivora",NA,NA,"Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. multivora",NA,NA,"Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. hedraiandra",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. gonapodyides",NA,NA,"Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. gonapodyides",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. gonapodyides",NA,NA,"Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. cryptogea",NA,NA,"Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. cryptogea",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. crassamura",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. citricola",NA,NA,"Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. citricola",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. cinnamomi",NA,NA,"France","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. cinnamomi",NA,NA,"Portugal","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. cinnamomi",NA,NA,"Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. cinnamomi",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. cactorum",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. asparagi",NA,NA,"Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus ilex","P. × cambivora",NA,NA,"Sicilia","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Quercus cerris","Unspecified species",NA,NA,"Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Quercus cerris","P. syringae",NA,NA,"Austria","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus cerris","P. syringae",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus cerris","P. quercina",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus cerris","P. quercina",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus cerris","P. plurivora",NA,NA,"Germany","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Quercus cerris","P. plurivora",NA,NA,"Italy","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Quercus cerris","P. plurivora",NA,NA,"Turkey","Western Asia","Asia-Temperate","Yes",NA,"Yes",NA,NA,1
+"Quercus cerris","P. multivora","Yes",NA,"Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus cerris","P. megasperma",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus cerris","P. hedraiandra",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus cerris","P. gonapodyides",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus cerris","P. cryptogea",NA,NA,"Italy","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Quercus cerris","P. cryptogea",NA,NA,"Turkey","Western Asia","Asia-Temperate","Yes",NA,"Yes",NA,NA,1
+"Quercus cerris","P. citricola",NA,NA,"Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Quercus cerris","P. citricola",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus cerris","P. citricola",NA,NA,"Austria","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus cerris","P. cinnamomi",NA,NA,NA,"New Zealand","Australasia","Yes",NA,"Yes",NA,NA,1
+"Quercus cerris","P. cinnamomi",NA,"Yes","Cape Provinces","Southern Africa","Africa","Yes",NA,"Yes",NA,NA,NA
+"Quercus cerris","P. cinnamomi",NA,NA,"Italy","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Quercus cerris","P. cinnamomi",NA,NA,NA,"Southern Africa","Africa","Yes",NA,"Yes",NA,NA,1
+"Quercus cerris","P. cactorum",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus cerris","P. × cambivora",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Quercus cerris","P. × cambivora",NA,NA,"Sicilia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","Unspecified species",NA,NA,"British Columbia","Western Canada","Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","Unspecified species",NA,NA,"California","Southwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","Unspecified species",NA,NA,"Hawaii","North-Central Pacific","Pacific",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","Unspecified species",NA,NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. ramorum",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. ramorum","Yes",NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. ramorum",NA,NA,"California","Southwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. pseudotsugae",NA,NA,"Washington","Northwestern U.S.A.","Northern America","Yes","Yes","Yes",NA,NA,1
+"Pseudotsuga menziesii","P. pseudotsugae",NA,NA,"Oregon","Northwestern U.S.A.","Northern America","Yes","Yes","Yes",NA,NA,1
+"Pseudotsuga menziesii","P. pseudotsugae",NA,NA,NA,NA,"Northern America","Yes","Yes","Yes",NA,NA,1
+"Pseudotsuga menziesii","P. pluvialis",NA,NA,NA,NA,"Northern America","Yes","Yes",NA,NA,NA,1
+"Pseudotsuga menziesii","P. pluvialis","Yes",NA,"Oregon","Northwestern U.S.A.","Northern America","Yes","Yes",NA,NA,NA,1
+"Pseudotsuga menziesii","P. pluvialis",NA,NA,NA,"New Zealand","Australasia","Yes","Yes",NA,NA,NA,1
+"Pseudotsuga menziesii","P. plurivora",NA,NA,"Germany","Middle Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Pseudotsuga menziesii","P. megasperma",NA,NA,NA,"New Zealand","Australasia","Yes",NA,"Yes","Yes",NA,1
+"Pseudotsuga menziesii","P. megasperma",NA,NA,NA,NA,"Northern America","Yes",NA,"Yes","Yes",NA,1
+"Pseudotsuga menziesii","P. megasperma",NA,NA,"Oregon","Northwestern U.S.A.","Northern America","Yes",NA,"Yes","Yes",NA,1
+"Pseudotsuga menziesii","P. megasperma",NA,NA,"Washington","Northwestern U.S.A.","Northern America","Yes",NA,"Yes","Yes",NA,1
+"Pseudotsuga menziesii","P. hedraiandra",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. hedraiandra",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. gonapodyides",NA,NA,"Korea","Eastern Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. drechsleri",NA,NA,"Colombia","Western South America","Southern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. drechsleri",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. drechsleri",NA,NA,"British Columbia","Western Canada","Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. drechsleri",NA,NA,"Washington","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. drechsleri",NA,NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. cryptogea",NA,NA,NA,"New Zealand","Australasia","Yes","Yes","Yes",NA,NA,1
+"Pseudotsuga menziesii","P. cryptogea",NA,NA,"Oregon","Northwestern U.S.A.","Northern America","Yes","Yes","Yes",NA,NA,1
+"Pseudotsuga menziesii","P. cryptogea",NA,NA,"Washington","Northwestern U.S.A.","Northern America","Yes","Yes","Yes",NA,NA,1
+"Pseudotsuga menziesii","P. cryptogea",NA,NA,NA,NA,"Northern America","Yes","Yes","Yes",NA,NA,1
+"Pseudotsuga menziesii","P. citricola",NA,NA,NA,"New Zealand","Australasia","Yes","Yes",NA,NA,NA,1
+"Pseudotsuga menziesii","P. citricola",NA,NA,NA,NA,"Northern America","Yes","Yes",NA,NA,NA,1
+"Pseudotsuga menziesii","P. citricola",NA,NA,"Oregon","Northwestern U.S.A.","Northern America","Yes","Yes",NA,NA,NA,1
+"Pseudotsuga menziesii","P. cinnamomi",NA,NA,NA,NA,"Northern America","Yes",NA,"Yes",NA,NA,1
+"Pseudotsuga menziesii","P. cinnamomi",NA,NA,"North Carolina","Southeastern U.S.A.","Northern America","Yes",NA,"Yes",NA,NA,1
+"Pseudotsuga menziesii","P. cinnamomi",NA,NA,"California","Southwestern U.S.A.","Northern America","Yes",NA,"Yes",NA,NA,1
+"Pseudotsuga menziesii","P. cinnamomi",NA,NA,"Spain","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Pseudotsuga menziesii","P. cinnamomi",NA,NA,NA,"New Zealand","Australasia","Yes",NA,"Yes",NA,NA,1
+"Pseudotsuga menziesii","P. cinnamomi",NA,NA,"Washington","Northwestern U.S.A.","Northern America","Yes",NA,"Yes",NA,NA,1
+"Pseudotsuga menziesii","P. cinnamomi",NA,NA,NA,"Australia","Australasia","Yes",NA,"Yes",NA,NA,1
+"Pseudotsuga menziesii","P. cinnamomi",NA,NA,"Oregon","Northwestern U.S.A.","Northern America","Yes",NA,"Yes",NA,NA,1
+"Pseudotsuga menziesii","P. chlamydospora",NA,NA,"Colombia","Western South America","Southern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. chlamydospora",NA,NA,"British Columbia","Western Canada","Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. cactorum",NA,NA,"Michigan","Northeastern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. cactorum",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. cactorum",NA,NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. cactorum",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. cactorum",NA,NA,"Washington","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Pseudotsuga menziesii","P. × cambivora",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Populus tremula","P. lacustris","Yes",NA,"Czechoslovakia","Middle Europe","Europe","Yes","Yes",NA,NA,NA,NA
+"Populus tremula","P. bilorbang","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Populus tremula","P. 'raspberry'","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Pinus sylvestris","P. plurivora",NA,NA,"Poland","Middle Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Pinus sylvestris","P. plurivora",NA,NA,"Germany","Middle Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Pinus sylvestris","P. hedraiandra",NA,NA,"Bulgaria","Southeastern Europe","Europe","Yes",NA,NA,NA,NA,1
+"Pinus sylvestris","P. hedraiandra",NA,NA,"Germany","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Pinus sylvestris","P. hedraiandra",NA,NA,"Czechoslovakia","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Pinus sylvestris","P. cryptogea",NA,NA,"Germany","Middle Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Pinus sylvestris","P. cinnamomi","Yes",NA,"France","Southwestern Europe","Europe",NA,NA,NA,NA,NA,NA
+"Pinus sylvestris","P. cinnamomi",NA,NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Pinus sylvestris","P. cinnamomi",NA,NA,"Virginia","Southeastern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Pinus sylvestris","P. cinnamomi",NA,NA,"Maryland","Southeastern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Pinus sylvestris","P. cinnamomi",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Pinus sylvestris","P. chlamydospora",NA,"Yes","Yugoslavia","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA,NA
+"Pinus sylvestris","P. cactorum",NA,NA,"Czechoslovakia","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Pinus sylvestris","P. cactorum",NA,NA,"Minnesota","North-Central U.S.A.","Northern America","Yes",NA,NA,NA,NA,1
+"Pinus sylvestris","P. cactorum",NA,NA,NA,NA,"Northern America","Yes",NA,NA,NA,NA,1
+"Pinus sylvestris","P. cactorum",NA,NA,"Bulgaria","Southeastern Europe","Europe","Yes",NA,NA,NA,NA,1
+"Pinus sylvestris","P. cactorum",NA,NA,"Poland","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Pinus sylvestris","P. cactorum",NA,NA,"Germany","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Pinus sylvestris","P. cactorum",NA,NA,"Denmark","Northern Europe","Europe","Yes",NA,NA,NA,NA,1
+"Pinus sylvestris","P. cactorum",NA,NA,"Sweden","Northern Europe","Europe","Yes",NA,NA,NA,NA,1
+"Pinus sylvestris","P. cactorum",NA,NA,"Czechoslovakia","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Pinus sylvestris","P. × cambivora",NA,NA,"Germany","Middle Europe","Europe","Yes","Yes",NA,NA,NA,1
+"Larix decidua","P. cinnamomi",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Larix decidua","P. cinnamomi",NA,NA,"Maryland","Southeastern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Larix decidua","P. cinnamomi",NA,NA,NA,"New Zealand","Australasia",NA,NA,NA,NA,NA,1
+"Larix decidua","P. cactorum",NA,NA,"Germany","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Larix decidua","P. cactorum",NA,NA,"Netherlands","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Juniperus communis","P. lateralis",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Juniperus communis","P. lateralis",NA,NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Juniperus communis","P. heterospora",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Juniperus communis","P. hedraiandra",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Juniperus communis","P. cinnamomi",NA,NA,NA,"Australia","Australasia","Yes",NA,"Yes",NA,NA,1
+"Juniperus communis","P. cinnamomi",NA,NA,NA,"New Zealand","Australasia","Yes",NA,"Yes",NA,NA,1
+"Juniperus communis","P. cactorum",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Juniperus communis","P. austrocedri",NA,NA,"Germany","Middle Europe","Europe","Yes","Yes","Yes","Yes",NA,1
+"Juniperus communis","P. × cambivora",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus rubra","Unspecified species",NA,NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. uniformis",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. uniformis","Yes",NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. uniformis",NA,NA,"Western Australia","Australia","Australasia",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. siskiyouensis",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. siskiyouensis","Yes",NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. pseudosyringae","Yes",NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,NA
+"Alnus rubra","P. parsiana",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. parsiana",NA,NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. occultans",NA,NA,"Western Australia","Australia","Australasia",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. lacustris","Yes",NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,NA
+"Alnus rubra","P. hedraiandra",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. gregata",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. gregata","Yes",NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. gonapodyides",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. gonapodyides","Yes",NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. gallica","Yes",NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,NA
+"Alnus rubra","P. europaea",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. europaea",NA,NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. crassamura",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. crassamura",NA,NA,"California","Southwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. chlamydospora","Yes",NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,NA
+"Alnus rubra","P. cactorum","Yes",NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,NA
+"Alnus rubra","P. cactorum",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. bilorbang","Yes",NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,NA
+"Alnus rubra","P. × cambivora",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Alnus rubra","P. × cambivora",NA,NA,"Oregon","Northwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Alnus incana","Unspecified species",NA,NA,"California","Southwestern U.S.A.","Northern America",NA,NA,NA,NA,NA,1
+"Alnus incana","P. uniformis",NA,NA,"Alaska","Subarctic America","Northern America",NA,NA,NA,NA,NA,1
+"Alnus incana","P. uniformis",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. uniformis","Yes",NA,"Sweden","Northern Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus incana","P. uniformis","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus incana","P. uniformis",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Alnus incana","P. uniformis",NA,NA,"Belgium","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. plurivora",NA,NA,"Austria","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. plurivora",NA,NA,"France","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. plurivora",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. plurivora",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. megasperma",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. hedraiandra",NA,NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. gonapodyides",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. gonapodyides",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. citricola",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. cactorum",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. cactorum",NA,NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. alni","Yes",NA,"Czechoslovakia","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,NA
+"Alnus incana","P. alni",NA,NA,"Germany","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus incana","P. alni",NA,NA,"Belgium","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus incana","P. alni","Yes",NA,"Sweden","Northern Europe","Europe","Yes",NA,"Yes",NA,NA,NA
+"Alnus incana","P. acerina",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. × multiformis",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. × multiformis",NA,NA,"France","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus incana","P. × cambivora",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","Unspecified species",NA,NA,"Austria","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","Unspecified species",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","Unspecified species",NA,NA,"Finland","Northern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","Unspecified species",NA,NA,"Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","Unspecified species",NA,NA,"Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","Unspecified species",NA,NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","Unspecified species",NA,NA,"Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","Unspecified species",NA,NA,"Netherlands","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. uniformis","Yes","Yes","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. uniformis","Yes",NA,"Sweden","Northern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. uniformis",NA,NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. uniformis",NA,NA,NA,NA,"Northern America",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. uniformis","Yes",NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. uniformis",NA,NA,"Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. uniformis",NA,NA,"Norway","Northern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. uniformis",NA,NA,"Denmark","Northern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. uniformis",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. uniformis",NA,NA,"Belgium","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. uniformis",NA,NA,"France","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. uniformis",NA,NA,"Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. syringae",NA,NA,"Germany","Middle Europe","Europe","Yes",NA,NA,NA,NA,1
+"Alnus glutinosa","P. siskiyouensis",NA,NA,NA,"Australia","Australasia",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. rosacearum","Yes",NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. quercina",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. pseudosyringae",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. pseudosyringae",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. pseudocryptogea",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. polonica","Yes",NA,"Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. polonica",NA,NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. polonica","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. polonica","Yes",NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. polonica",NA,NA,"Ukraine","Eastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. plurivora","Yes",NA,"Sweden","Northern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora","Yes","Yes","Czechoslovakia","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora","Yes",NA,"Yugoslavia","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA,NA
+"Alnus glutinosa","P. plurivora",NA,NA,"Bulgaria","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora",NA,NA,"Romania","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora",NA,NA,"Poland","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora",NA,NA,"Denmark","Northern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora",NA,NA,"Austria","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora",NA,NA,"Italy","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora",NA,NA,"Spain","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora","Yes",NA,"Hungary","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora",NA,NA,"France","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora",NA,NA,"Germany","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora","Yes",NA,"Czechoslovakia","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,NA
+"Alnus glutinosa","P. plurivora",NA,NA,"Netherlands","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora",NA,NA,"Ukraine","Eastern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora",NA,NA,"Yugoslavia","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. plurivora",NA,NA,"Turkey","Western Asia","Asia-Temperate","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. pini",NA,NA,"Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. multivora","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. multivora",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. megasperma",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. megasperma",NA,"Yes","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. megasperma","Yes",NA,"Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. lacustris",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. lacustris","Yes",NA,"Portugal","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. lacustris",NA,NA,"Ukraine","Eastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. lacustris","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. lacustris",NA,NA,"Ireland","Northern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. lacustris","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. lacustris",NA,NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. lacustris",NA,NA,"Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. lacustris","Yes",NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. lacustris","Yes",NA,"Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. inundata","Yes",NA,"Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. honggalleglyana",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. hedraiandra",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. hedraiandra",NA,NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. gregata","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. gregata","Yes",NA,"Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. gregata","Yes",NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. gonapodyides","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. gonapodyides","Yes",NA,"Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. gonapodyides",NA,NA,"Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. gonapodyides","Yes",NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. gonapodyides",NA,NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. gonapodyides",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. gonapodyides",NA,NA,"Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. gallica","Yes",NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. gallica","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. gallica",NA,NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. cryptogea",NA,"Yes","Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. citricola",NA,NA,"Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. citricola",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. citricola",NA,NA,"France","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. cinnamomi",NA,NA,"Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. chlamydospora",NA,NA,"Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. cactorum",NA,NA,"Turkey","Western Asia","Asia-Temperate",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. cactorum",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. cactorum",NA,NA,"Poland","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. cactorum","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. bilorbang","Yes",NA,"Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. bilorbang","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. bilorbang","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. bilorbang",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. bilorbang",NA,NA,"Ukraine","Eastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. alni",NA,NA,"Italy","Southeastern Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Alnus glutinosa","P. alni",NA,NA,"Netherlands","Middle Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Alnus glutinosa","P. alni","Yes",NA,"Illinois","North-Central U.S.A.","Northern America","Yes","Yes","Yes",NA,NA,NA
+"Alnus glutinosa","P. alni",NA,NA,"Austria","Middle Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Alnus glutinosa","P. alni",NA,NA,"Belarus","Eastern Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Alnus glutinosa","P. alni","Yes",NA,"Yugoslavia","Southeastern Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Alnus glutinosa","P. alni","Yes",NA,"Portugal","Southwestern Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Alnus glutinosa","P. alni",NA,NA,"Belgium","Middle Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Alnus glutinosa","P. alni","Yes",NA,"Germany","Middle Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Alnus glutinosa","P. alni","Yes",NA,"France","Southwestern Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Alnus glutinosa","P. alni","Yes","Yes","Czechoslovakia","Middle Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Alnus glutinosa","P. alni",NA,NA,"Poland","Middle Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Alnus glutinosa","P. alni",NA,NA,"Hungary","Middle Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Alnus glutinosa","P. alni",NA,NA,"Spain","Southwestern Europe","Europe","Yes","Yes","Yes",NA,NA,1
+"Alnus glutinosa","P. alni","Yes",NA,"Sweden","Northern Europe","Europe","Yes","Yes","Yes",NA,NA,NA
+"Alnus glutinosa","P. acerina",NA,NA,"Italy","Southeastern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. × multiformis",NA,NA,"Spain","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. × multiformis","Yes",NA,"Yugoslavia","Southeastern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. × multiformis","Yes",NA,"Hungary","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,NA
+"Alnus glutinosa","P. × multiformis",NA,NA,"France","Southwestern Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. × multiformis",NA,NA,"Netherlands","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. × multiformis",NA,NA,"Belgium","Middle Europe","Europe","Yes",NA,"Yes",NA,NA,1
+"Alnus glutinosa","P. × cambivora",NA,NA,"Germany","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. × cambivora",NA,NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. × cambivora",NA,NA,"Spain","Southwestern Europe","Europe",NA,NA,NA,NA,NA,1
+"Alnus glutinosa","P. 'walnut'","Yes",NA,"Yugoslavia","Southeastern Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. 'raspberry'","Yes",NA,"Czechoslovakia","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
+"Alnus glutinosa","P. 'raspberry'","Yes",NA,"Hungary","Middle Europe","Europe",NA,NA,NA,NA,NA,NA
