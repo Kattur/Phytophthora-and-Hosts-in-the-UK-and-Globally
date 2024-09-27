@@ -1,0 +1,38 @@
+---
+title: Phytophthora and Hosts in the UK and Globally
+author: "Key Host Species"
+date: ""
+output: html_document
+# css: styles.css
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+set.seed(1234)
+library(knitr)
+library(kableExtra)
+library(purrr)
+library(sf)
+library(ggplot2)
+library(leaflet)
+library(stringr)
+library(htmltools)
+```
+
+
+
+# global locations are based on data within the database as have not got a distribution dataset for phyto
+
+## {.tabset}
+
+### All Key Species{.tabset .col-leftmid}
+
+#### WGSRPD Level 4
+
+```{r, echo=FALSE}
+htmltools::tags$iframe(src = "Alnus_glutinosa_Level.1tl.html", width = "100%", style="height: 100vh;")
+```
+
+
+
+
