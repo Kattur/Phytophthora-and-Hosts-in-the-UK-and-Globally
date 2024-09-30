@@ -30,7 +30,7 @@ library(htmltools)
 
 #### WGSRPD Level 4
 ```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/All_key_species_Level.4.html", width = "100%", style="height: 100vh;")
+    #htmltools::tags$iframe(src = "maps/All_key_species_Level.4.html", width = "100%", style="height: 100vh;")
 ```
 #### WGSRPD Level 3
 ```{r, echo = FALSE}
