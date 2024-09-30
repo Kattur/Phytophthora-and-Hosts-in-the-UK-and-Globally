@@ -30,153 +30,35 @@ library(htmltools)
 
 #### WGSRPD Level 4
 ```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/All_key_species_Level.4.html", width = "100%", style="height: 70vh;")
+    htmltools::tags$iframe(src = "maps/All_key_species_Level.4.html", width = "100%", style="height: 100vh;")
 ```
 #### WGSRPD Level 3
 ```{r, echo = FALSE}
-     htmltools::tags$iframe(src = "maps/All_key_species_Level.3.html", width = "100%", style="height: 75vh;")
+     # htmltools::tags$iframe(src = "C:/Users/Kattur/OneDrive - UKCEH/github_projects/Scripts and Data/Phytophthora-and-Hosts-in-the-UK-and-Globally/maps/All_key_species_Level.3.html", width = "100%", style="height: 100vh;")
 ```
 #### WGSRPD Level 2
 ```{r, echo = FALSE}
-     htmltools::tags$iframe(src = "maps/All_key_species_Level.2.html", width = "100%", style="height: 80vh;")
+     # htmltools::tags$iframe(src = "C:/Users/Kattur/OneDrive - UKCEH/github_projects/Scripts and Data/Phytophthora-and-Hosts-in-the-UK-and-Globally/maps/All_key_species_Level.2.html", width = "100%", style="height: 100vh;")
 ```
 #### WGSRPD Level 1
 ```{r, echo = FALSE}
-  htmltools::tags$iframe(src = "maps/All_key_species_Level.2.html", width = "100%", style="height: 85vh;")
+  # htmltools::tags$iframe(src = "C:/Users/Kattur/OneDrive - UKCEH/github_projects/Scripts and Data/Phytophthora-and-Hosts-in-the-UK-and-Globally/maps/All_key_species_Level.2.html", width = "100%", style="height: 100vh;")
 ```
 
 ### Alnus glutinosa{.tabset .col-leftmid}
 
-#### WGSRPD Level 4
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Alnus_glutinosa_Level.4.html", width = "100%", style="height: 90vh;")
-```
-#### WGSRPD Level 3
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Alnus_glutinosa_Level.3.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 2
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Alnus_glutinosa_Level.2.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 1
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Alnus_glutinosa_Level.1.html", width = "100%", style="height: 100vh;")
-```
-
-### Alnus incana{.tabset .col-leftmid}
-
-#### WGSRPD Level 4
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Alnus_incana_Level.4.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 3
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Alnus_incana_Level.3.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 2
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Alnus_incana_Level.2.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 1
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Alnus_incana_Level.1.html", width = "100%", style="height: 100vh;")
-```
-
-### Alnus rubra{.tabset .col-leftmid}
-
-#### WGSRPD Level 4
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Alnus_rubra_Level.4.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 3
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Alnus_rubra_Level.3.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 2
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Alnus_rubra_Level.2.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 1
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Alnus_rubra_Level.1.html", width = "100%", style="height: 100vh;")
-```
-
-### Juniperus communis{.tabset .col-leftmid}
-
-#### WGSRPD Level 4
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Juniperus_communis_Level.4.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 3
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Juniperus_communis_Level.3.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 2
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Juniperus_communis_Level.2.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 1
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Juniperus_communis_Level.1.html", width = "100%", style="height: 100vh;")
-```
-
-### Larix decidua{.tabset .col-leftmid}
-
-#### WGSRPD Level 4
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Larix_decidua_Level.4.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 3
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Larix_decidua_Level.3.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 2
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Larix_decidua_Level.2.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 1
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Larix_decidua_Level.1.html", width = "100%", style="height: 100vh;")
-```
-
-### Larix x eurolepis{.tabset .col-leftmid}
-
-#### WGSRPD Level 4
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Larix_x_eurolepis_Level.4.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 3
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Larix_x_eurolepis_Level.3.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 2
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Larix_x_eurolepis_Level.2.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 1
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Larix_x_eurolepis_Level.1.html", width = "100%", style="height: 100vh;")
-```
-
-### Pinus sylvestris{.tabset .col-leftmid}
-
-#### WGSRPD Level 4
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Pinus_sylvestris_Level.4.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 3
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Pinus_sylvestris_Level.3.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 2
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Pinus_sylvestris_Level.2.html", width = "100%", style="height: 100vh;")
-```
-#### WGSRPD Level 1
-```{r, echo = FALSE}
-    htmltools::tags$iframe(src = "maps/Pinus_sylvestris_Level.1.html", width = "100%", style="height: 100vh;")
-```
+<!-- #### [WGSRPD Level 4](C:/Users/Kattur/OneDrive - UKCEH/github_projects/Scripts and Data/Phytophthora-and-Hosts-in-the-UK-and-Globally/maps/Alnus_glutinosa_Level.4.html)  -->
 
 
+
+<!-- #### [WGSRPD Level 3](<C:/Users/Kattur/OneDrive - UKCEH/github_projects/Scripts and Data/Phytophthora-and-Hosts-in-the-UK-and-Globally/maps/Alnus_glutinosa_Level.4.html>)  -->
+
+<!-- #### WGSRPD Level 2 -->
+<!-- ```{r, echo = FALSE} -->
+<!--     htmltools::tags$iframe(src = "maps/Alnus_glutinosa_Level.2.html", width = "100%", style="height: 100vh;") -->
+<!-- ``` -->
+<!-- #### WGSRPD Level 1 -->
+<!-- ```{r, echo = FALSE} -->
+<!--     htmltools::tags$iframe(src = "maps/Alnus_glutinosa_Level.1.html", width = "100%", style="height: 100vh;") -->
+<!-- ``` -->
 
